@@ -1,4 +1,4 @@
-name: Validate JSON
+name: Check for Mod Updates
 on: 
   push:
   schedule:
