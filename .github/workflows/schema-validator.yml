@@ -1,6 +1,11 @@
 name: Check for Mod Updates
 on: 
-  [push, pull_request]
+  push:
+    paths:
+      - './mods.json'
+  pull_request:
+    paths:
+      - './mods.json'
 
 jobs:
   verify-json-validation:
