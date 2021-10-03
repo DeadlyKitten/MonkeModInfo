@@ -22,7 +22,7 @@ modList.mods.forEach(mod =>
             result.push({
               'name': mod.name,
               'author': mod.author,
-              'version': json.tag_name,
+              'version': json.tag_name.replace(/[^\d\n,.]/g,''),
               'dependencies': mod.dependencies,
               'dependents': mod.dependents,
               'install_location': mod.installPath,
