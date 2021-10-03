@@ -1,0 +1,54 @@
+{
+  "$id": "https://github.com/DeadlyKitten/MonkeModInfo/mods.schema.json",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "required": ["mods", "groups"],
+  "properties": {
+    "mods": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/mod" }
+    },
+    "groups": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/group" }
+    }
+  },
+  "$defs": {
+    "mod": {
+      "type": "object",
+      "required": ["name", "gitPath", "releaseId", "author", "group"],
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "tag": {
+          "type": "string"
+        },
+        "gitPath": {
+          "type": "string"
+        },
+        "releaseId": {
+          "type": "integer"
+        },
+        "author": {
+          "type": "string"
+        },
+        "group": {
+          "type": "string"
+        }
+      }
+    },
+    "group": {
+      "type": "object",
+      "required": ["name", "rank"],
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "rankd": {
+          "type": "integer"
+        }
+      }
+    }
+  }
+}
