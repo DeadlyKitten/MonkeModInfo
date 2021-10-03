@@ -1,5 +1,6 @@
 name: Check for Mod Updates
 on: 
+  push:
   schedule:
   - cron: '*/20 * * * *'
 
