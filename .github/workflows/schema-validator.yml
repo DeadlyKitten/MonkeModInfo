@@ -11,4 +11,4 @@ jobs:
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: ./mods.schema.json
-          INPUT_JSONS: ./mods.json,./modinfo.json,./groupinfo.json
+          INPUT_JSONS: ./mods.json
