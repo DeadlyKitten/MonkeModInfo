@@ -1,7 +1,7 @@
 name: Check for Mod Updates
 on: 
   schedule:
-  - cron: '0 * * * *'
+  - cron: '*/20 * * * *'
 
 jobs:
   test:
