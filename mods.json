@@ -33,6 +33,18 @@
         ]
      },
      {
+      "name" : "Practice Mod",
+      "tag" : "",
+      "gitPath" : "Graicc/PracticeMod",
+      "releaseId" : 0,
+      "author" : "Graic",
+      "group" : "Gameplay",
+      "dependencies" : [
+       "Utilla",
+       "Computer Interface"
+      ]
+     },
+     {
         "name" : "Space Monke",
         "tag" : "",
         "gitPath" : "legoandmars/SpaceMonke",
