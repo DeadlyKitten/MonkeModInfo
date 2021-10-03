@@ -2,7 +2,7 @@
   {
     "name": "BepInEx",
     "author": "BepInEx Team",
-    "version": "v5.4.16",
+    "version": "5.4.16",
     "group": "Core",
     "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.16/BepInEx_x64_5.4.16.0.zip"
   },
@@ -38,7 +38,7 @@
   {
     "name": "Gorilla Cosmetics",
     "author": "Bobbie",
-    "version": "v2.1.1",
+    "version": "2.1.1",
     "dependencies": [
       "Newtonsoft.JSON"
     ],
@@ -67,7 +67,7 @@
   {
     "name": "Space Monke",
     "author": "Bobbie",
-    "version": "v1.2.0",
+    "version": "1.2.0",
     "dependencies": [
       "Utilla"
     ],
@@ -77,7 +77,7 @@
   {
     "name": "Utilla",
     "author": "Bobbie",
-    "version": "v1.4.0",
+    "version": "1.4.0",
     "group": "Libraries",
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.4.0/Utilla-1.4.0.zip"
   }
