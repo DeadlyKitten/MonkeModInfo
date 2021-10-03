@@ -1,6 +1,8 @@
 name: Check for Mod Updates
 on: 
   push:
+    branches:
+      - 'master'
   schedule:
   - cron: '*/20 * * * *'
 
