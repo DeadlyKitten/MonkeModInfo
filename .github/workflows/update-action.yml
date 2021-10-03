@@ -1,0 +1,38 @@
+name: Check for Mod Updates
+on: 
+  schedule:
+  - cron: '0 * * * *'
+
+jobs:
+  test:
+    name: Check for Mod Updates
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.REPO_SCOPED_TOKEN }}
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '15'
+
+    - name: Check for Updates
+      run: node app.js
+      env:
+        SECRET: ${{ secrets.REPO_SCOPED_TOKEN }}
+
+    - name: Check for Modified Files
+      id: git-check
+      run: |
+        echo ::set-output name=modified::$([ -z "`git status --porcelain`" ] && echo "false" || echo "true")
+
+    - name: Commit Latest Release Version
+      if: steps.git-check.outputs.modified == 'true'
+      run: |
+        git config --global user.name 'DeadlyKitten'
+        git config --global user.email 'DeadlyKitten@users.noreply.github.com'
+        git add modinfo.json
+        git commit -am "Update modinfo.json"
+        git push

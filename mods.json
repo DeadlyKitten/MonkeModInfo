@@ -1,0 +1,113 @@
+{
+  "mods" : [
+     {
+        "name" : "BepInEx",
+        "tag" : "",
+        "gitPath" : "BepInEx/BepInEx",
+        "releaseId" : 1,
+        "author" : "BepInEx Team",
+        "group" : "Core"
+     },
+     {
+        "name" : "Gorilla Cosmetics",
+        "tag" : "",
+        "gitPath" : "legoandmars/GorillaCosmetics",
+        "releaseId" : 0,
+        "author" : "Bobbie",
+        "group" : "Cosmetic",
+        "dependencies" : [
+         "Newtonsoft.JSON"
+        ]
+     },
+     {
+        "name" : "Monke Map Loader",
+        "tag" : "",
+        "gitPath" : "Vadix88/MonkeMapLoader",
+        "releaseId" : 0,
+        "author" : "Vadix",
+        "group" : "Gameplay",
+        "dependencies" : [
+         "Newtonsoft.JSON",
+         "Utilla",
+         "Computer Interface"
+        ]
+     },
+     {
+        "name" : "Space Monke",
+        "tag" : "",
+        "gitPath" : "legoandmars/SpaceMonke",
+        "releaseId" : 0,
+        "author" : "Bobbie",
+        "group" : "Gameplay",
+        "dependencies" : [
+          "Utilla"
+         ]
+     },
+     {
+        "name" : "Utilla",
+        "tag" : "",
+        "gitPath" : "legoandmars/Utilla",
+        "releaseId" : 0,
+        "author" : "Bobbie",
+        "group" : "Libraries"
+     },
+     {
+       "name" : "Computer Interface",
+       "tag" : "",
+       "gitPath" : "ToniMacaroni/ComputerInterface",
+       "releaseId": 0,
+       "author" : "Toni Macaroni",
+       "group" : "Libraries",
+       "dependencies" : [
+         "Bepinject"
+       ]
+     },
+     {
+       "name" : "Bepinject",
+       "tag" : "",
+       "gitPath" : "Auros/Bepinject",
+       "releaseId": 0,
+       "author" : "Auros",
+       "group" : "Libraries",
+       "installPath" : "BepInEx/plugins",
+       "dependencies" : [
+         "Extenject"
+       ]
+     },
+     {
+       "name" : "Extenject",
+       "tag" : "",
+       "gitPath" : "Auros/Bepinject",
+       "releaseId": 1,
+       "author" : "svermeulen",
+       "group" : "Libraries",
+       "installPath" : "BepInEx/plugins"
+     },
+     {
+        "name" : "Newtonsoft.JSON",
+        "tag" : "",
+        "gitPath" : "legoandmars/Newtonsoft.Json",
+        "releaseId" : 0,
+        "author" : "James Newton-King",
+        "group" : "Libraries"
+     }
+  ],
+  "groups" : [
+    {
+      "name" : "Core",
+      "rank" : 0
+    },
+    {
+      "name" : "Cosmetic",
+      "rank" : 1
+    },
+    {
+      "name" : "Gameplay",
+      "rank" : 2
+    },
+    {
+      "name" : "Libraries",
+      "rank" : 3
+    }
+  ]
+}
