@@ -26,6 +26,7 @@ modList.mods.forEach(mod =>
               'dependencies': mod.dependencies,
               'dependents': mod.dependents,
               'install_location': mod.installPath,
+              'git_path': mod.gitPath,
               'group': mod.group,
               'download_url': json.assets[mod.releaseId].browser_download_url
             });
