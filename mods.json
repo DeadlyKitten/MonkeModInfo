@@ -56,6 +56,14 @@
          ]
      },
      {
+      "name" : "BrokenController",
+      "tag" : "",
+      "gitPath" : "AHauntedArmy/BrokenController",
+      "releaseId" : 0,
+      "author" : "A Haunted Army",
+      "group" : "Tweaks / Tools"
+     },
+     {
         "name" : "Utilla",
         "tag" : "",
         "gitPath" : "legoandmars/Utilla",
@@ -118,8 +126,12 @@
       "rank" : 2
     },
     {
-      "name" : "Libraries",
+      "name" : "Tweaks / Tools",
       "rank" : 3
+    },
+    {
+      "name" : "Libraries",
+      "rank" : 4
     }
   ]
 }
