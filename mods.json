@@ -64,6 +64,14 @@
       "group" : "Tweaks / Tools"
      },
      {
+      "name" : "NoAmbient",
+      "tag" : "",
+      "gitPath" : "RusJJ/NoAmbient",
+      "releaseId" : 0,
+      "author" : "[-=KILL MAN=-] aka RusJJ",
+      "group" : "Tweaks / Tools"
+     },
+     {
         "name" : "Utilla",
         "tag" : "",
         "gitPath" : "legoandmars/Utilla",
@@ -110,6 +118,14 @@
         "releaseId" : 0,
         "author" : "James Newton-King",
         "group" : "Libraries"
+     },
+     {
+      "name" : "BananaHook",
+      "tag" : "",
+      "gitPath" : "RusJJ/BananaHook",
+      "releaseId" : 0,
+      "author" : "[-=KILL MAN=-] aka RusJJ",
+      "group" : "Libraries"
      }
   ],
   "groups" : [

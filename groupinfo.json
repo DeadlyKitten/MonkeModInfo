@@ -12,7 +12,11 @@
     "rank" : 2
   },
   {
-    "name" : "Libraries",
+    "name" : "Tweaks / Tools",
     "rank" : 3
+  },
+  {
+    "name" : "Libraries",
+    "rank" : 4
   }
 ]
