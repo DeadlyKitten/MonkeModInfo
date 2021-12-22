@@ -56,17 +56,6 @@
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
   },
   {
-    "name": "Gorilla Cosmetics",
-    "author": "Bobbie",
-    "version": "2.1.1",
-    "dependencies": [
-      "Newtonsoft.JSON"
-    ],
-    "git_path": "legoandmars/GorillaCosmetics",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/v2.1.1/GorillaCosmetics-2.1.1.zip"
-  },
-  {
     "name": "Monke Map Loader",
     "author": "Vadix",
     "version": "1.1.0",
