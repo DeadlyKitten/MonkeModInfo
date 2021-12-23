@@ -72,6 +72,17 @@
       "group" : "Tweaks / Tools"
      },
      {
+      "name" : "YURFitGorillaTag",
+      "tag" : "",
+      "gitPath" : "AHauntedArmy/YURFitGorillaTag",
+      "releaseId" : 0,
+      "author" : "A Haunted Army",
+      "group" : "Tweaks / Tools",
+      "dependencies" : [
+        "TMPLoader"
+       ]
+     },
+     {
         "name" : "Utilla",
         "tag" : "",
         "gitPath" : "legoandmars/Utilla",
@@ -125,6 +136,14 @@
       "gitPath" : "RusJJ/BananaHook",
       "releaseId" : 0,
       "author" : "[-=KILL MAN=-] aka RusJJ",
+      "group" : "Libraries"
+     },
+     {
+      "name" : "TMPLoader",
+      "tag" : "",
+      "gitPath" : "AHauntedArmy/TMPLoader",
+      "releaseId" : 0,
+      "author" : "A Haunted Army",
       "group" : "Libraries"
      }
   ],
