@@ -47,15 +47,6 @@
     "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.4.6/ComputerInterface.zip"
   },
   {
-    "name": "Extenject",
-    "author": "svermeulen",
-    "version": "1.0.1",
-    "install_location": "BepInEx/plugins",
-    "git_path": "Auros/Bepinject",
-    "group": "Libraries",
-    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
-  },
-  {
     "name": "Gorilla Cosmetics",
     "author": "Bobbie",
     "version": "2.1.1",
