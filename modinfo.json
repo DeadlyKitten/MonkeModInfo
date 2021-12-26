@@ -96,18 +96,6 @@
     "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
   },
   {
-    "name": "Practice Mod",
-    "author": "Graic",
-    "version": "1.1.0",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "Graicc/PracticeMod",
-    "group": "Gameplay",
-    "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.0/PracticeMod-v1.1.0.zip"
-  },
-  {
     "name": "Space Monke",
     "author": "Bobbie",
     "version": "1.2.0",
