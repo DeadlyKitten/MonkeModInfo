@@ -8,14 +8,6 @@
     "download_url": "https://github.com/RusJJ/BananaHook/releases/download/1.1.0/BananaHook.zip"
   },
   {
-    "name": "BepInEx",
-    "author": "BepInEx Team",
-    "version": "5.4.18",
-    "git_path": "BepInEx/BepInEx",
-    "group": "Core",
-    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.18/BepInEx_x64_5.4.18.0.zip"
-  },
-  {
     "name": "Bepinject",
     "author": "Auros",
     "version": "1.0.1",
@@ -88,12 +80,16 @@
     "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
   },
   {
-    "name": "NoAmbient",
-    "author": "[-=KILL MAN=-] aka RusJJ",
+    "name": "Practice Mod",
+    "author": "Graic",
     "version": "1.1.0",
-    "git_path": "RusJJ/NoAmbient",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "Graicc/PracticeMod",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.0/PracticeMod-v1.1.0.zip"
   },
   {
     "name": "Space Monke",
