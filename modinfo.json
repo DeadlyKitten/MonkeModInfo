@@ -80,14 +80,6 @@
     "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/v1.1.0/MonkeMapLoader-1.1.0.zip"
   },
   {
-    "name": "Newtonsoft.JSON",
-    "author": "James Newton-King",
-    "version": "12.0.3",
-    "git_path": "legoandmars/Newtonsoft.Json",
-    "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
-  },
-  {
     "name": "NoAmbient",
     "author": "[-=KILL MAN=-] aka RusJJ",
     "version": "1.1.0",
@@ -108,17 +100,6 @@
     "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.0/PracticeMod-v1.1.0.zip"
   },
   {
-    "name": "Space Monke",
-    "author": "Bobbie",
-    "version": "1.2.0",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "legoandmars/SpaceMonke",
-    "group": "Gameplay",
-    "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.0/SpaceMonke-1.2.0.zip"
-  },
-  {
     "name": "TMPLoader",
     "author": "A Haunted Army",
     "version": "1.0.0",
@@ -133,16 +114,5 @@
     "git_path": "legoandmars/Utilla",
     "group": "Libraries",
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.4.0/Utilla-1.4.0.zip"
-  },
-  {
-    "name": "YURFitGorillaTag",
-    "author": "A Haunted Army & fchb1239",
-    "version": "1.0.1",
-    "dependencies": [
-      "TMPLoader"
-    ],
-    "git_path": "AHauntedArmy/YURFitGorillaTag",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/YURFitGorillaTag/releases/download/1.0.1/YURFitGorillaTag-v1.0.1.zip"
   }
 ]
