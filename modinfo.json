@@ -28,37 +28,6 @@
     "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.0.1/BrokenController-v1.0.1.zip"
   },
   {
-    "name": "Computer Interface",
-    "author": "Toni Macaroni",
-    "version": "1.4.6",
-    "dependencies": [
-      "Bepinject"
-    ],
-    "git_path": "ToniMacaroni/ComputerInterface",
-    "group": "Libraries",
-    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.4.6/ComputerInterface.zip"
-  },
-  {
-    "name": "Extenject",
-    "author": "svermeulen",
-    "version": "1.0.1",
-    "install_location": "BepInEx/plugins",
-    "git_path": "Auros/Bepinject",
-    "group": "Libraries",
-    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
-  },
-  {
-    "name": "Gorilla Cosmetics",
-    "author": "Bobbie",
-    "version": "2.1.1",
-    "dependencies": [
-      "Newtonsoft.JSON"
-    ],
-    "git_path": "legoandmars/GorillaCosmetics",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/v2.1.1/GorillaCosmetics-2.1.1.zip"
-  },
-  {
     "name": "Monke Map Loader",
     "author": "Vadix",
     "version": "1.1.0",
