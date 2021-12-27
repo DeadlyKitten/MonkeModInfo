@@ -8,6 +8,14 @@
     "download_url": "https://github.com/RusJJ/BananaHook/releases/download/1.1.0/BananaHook.zip"
   },
   {
+    "name": "BepInEx",
+    "author": "BepInEx Team",
+    "version": "5.4.18",
+    "git_path": "BepInEx/BepInEx",
+    "group": "Core",
+    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.18/BepInEx_x64_5.4.18.0.zip"
+  },
+  {
     "name": "Bepinject",
     "author": "Auros",
     "version": "1.0.1",
@@ -26,17 +34,6 @@
     "git_path": "AHauntedArmy/BrokenController",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.0.1/BrokenController-v1.0.1.zip"
-  },
-  {
-    "name": "Computer Interface",
-    "author": "Toni Macaroni",
-    "version": "1.4.6",
-    "dependencies": [
-      "Bepinject"
-    ],
-    "git_path": "ToniMacaroni/ComputerInterface",
-    "group": "Libraries",
-    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.4.6/ComputerInterface.zip"
   },
   {
     "name": "Extenject",
@@ -88,6 +85,18 @@
     "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
   },
   {
+    "name": "Practice Mod",
+    "author": "Graic",
+    "version": "1.1.0",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "Graicc/PracticeMod",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.0/PracticeMod-v1.1.0.zip"
+  },
+  {
     "name": "Space Monke",
     "author": "Bobbie",
     "version": "1.2.0",
@@ -113,5 +122,16 @@
     "git_path": "legoandmars/Utilla",
     "group": "Libraries",
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.4.0/Utilla-1.4.0.zip"
+  },
+  {
+    "name": "YURFitGorillaTag",
+    "author": "A Haunted Army & fchb1239",
+    "version": "1.0.1",
+    "dependencies": [
+      "TMPLoader"
+    ],
+    "git_path": "AHauntedArmy/YURFitGorillaTag",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/YURFitGorillaTag/releases/download/1.0.1/YURFitGorillaTag-v1.0.1.zip"
   }
 ]
