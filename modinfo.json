@@ -1,13 +1,5 @@
 [
   {
-    "name": "BananaHook",
-    "author": "[-=KILL MAN=-] aka RusJJ",
-    "version": "1.1.0",
-    "git_path": "RusJJ/BananaHook",
-    "group": "Libraries",
-    "download_url": "https://github.com/RusJJ/BananaHook/releases/download/1.1.0/BananaHook.zip"
-  },
-  {
     "name": "BepInEx",
     "author": "BepInEx Team",
     "version": "5.4.18",
@@ -28,14 +20,6 @@
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
   },
   {
-    "name": "BrokenController",
-    "author": "A Haunted Army",
-    "version": "1.0.1",
-    "git_path": "AHauntedArmy/BrokenController",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.0.1/BrokenController-v1.0.1.zip"
-  },
-  {
     "name": "Computer Interface",
     "author": "Toni Macaroni",
     "version": "1.4.6",
@@ -45,6 +29,17 @@
     "git_path": "ToniMacaroni/ComputerInterface",
     "group": "Libraries",
     "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.4.6/ComputerInterface.zip"
+  },
+  {
+    "name": "Gorilla Cosmetics",
+    "author": "Bobbie",
+    "version": "2.1.1",
+    "dependencies": [
+      "Newtonsoft.JSON"
+    ],
+    "git_path": "legoandmars/GorillaCosmetics",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/v2.1.1/GorillaCosmetics-2.1.1.zip"
   },
   {
     "name": "Monke Map Loader",
@@ -58,14 +53,6 @@
     "git_path": "Vadix88/MonkeMapLoader",
     "group": "Gameplay",
     "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/v1.1.0/MonkeMapLoader-1.1.0.zip"
-  },
-  {
-    "name": "Newtonsoft.JSON",
-    "author": "James Newton-King",
-    "version": "12.0.3",
-    "git_path": "legoandmars/Newtonsoft.Json",
-    "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
   },
   {
     "name": "NoAmbient",
@@ -113,16 +100,5 @@
     "git_path": "legoandmars/Utilla",
     "group": "Libraries",
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.4.0/Utilla-1.4.0.zip"
-  },
-  {
-    "name": "YURFitGorillaTag",
-    "author": "A Haunted Army & fchb1239",
-    "version": "1.0.1",
-    "dependencies": [
-      "TMPLoader"
-    ],
-    "git_path": "AHauntedArmy/YURFitGorillaTag",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/YURFitGorillaTag/releases/download/1.0.1/YURFitGorillaTag-v1.0.1.zip"
   }
 ]
