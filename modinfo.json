@@ -36,17 +36,6 @@
     "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.0.1/BrokenController-v1.0.1.zip"
   },
   {
-    "name": "Computer Interface",
-    "author": "Toni Macaroni",
-    "version": "1.4.6",
-    "dependencies": [
-      "Bepinject"
-    ],
-    "git_path": "ToniMacaroni/ComputerInterface",
-    "group": "Libraries",
-    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.4.6/ComputerInterface.zip"
-  },
-  {
     "name": "Extenject",
     "author": "svermeulen",
     "version": "1.0.1",
@@ -80,12 +69,32 @@
     "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/v1.1.0/MonkeMapLoader-1.1.0.zip"
   },
   {
+    "name": "Newtonsoft.JSON",
+    "author": "James Newton-King",
+    "version": "12.0.3",
+    "git_path": "legoandmars/Newtonsoft.Json",
+    "group": "Libraries",
+    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
+  },
+  {
     "name": "NoAmbient",
     "author": "[-=KILL MAN=-] aka RusJJ",
     "version": "1.1.0",
     "git_path": "RusJJ/NoAmbient",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
+  },
+  {
+    "name": "Practice Mod",
+    "author": "Graic",
+    "version": "1.1.0",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "Graicc/PracticeMod",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.0/PracticeMod-v1.1.0.zip"
   },
   {
     "name": "Space Monke",
@@ -105,14 +114,6 @@
     "git_path": "AHauntedArmy/TMPLoader",
     "group": "Libraries",
     "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/v1.0.0/TMPLoader-v1.0.0.zip"
-  },
-  {
-    "name": "Utilla",
-    "author": "Bobbie",
-    "version": "1.4.0",
-    "git_path": "legoandmars/Utilla",
-    "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.4.0/Utilla-1.4.0.zip"
   },
   {
     "name": "YURFitGorillaTag",
