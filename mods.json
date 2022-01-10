@@ -20,6 +20,26 @@
         ]
      },
      {
+      "name" : "MonkeTrails",
+      "tag" : "",
+      "gitPath" : "jona939s/Trail-monkey",
+      "releaseId" : 0,
+      "author" : "JJoe",
+      "group" : "Cosmetic"
+     },
+     {
+      "name" : "GripMonke",
+      "tag" : "",
+      "gitPath" : "TransLillie/GripMonke",
+      "releaseId" : 0,
+      "author" : "Lillie",
+      "group" : "Gameplay",
+      "dependencies" : [
+       "Utilla",
+       "Computer Interface"
+      ]
+     },
+     {
         "name" : "Monke Map Loader",
         "tag" : "",
         "gitPath" : "Vadix88/MonkeMapLoader",
@@ -31,6 +51,17 @@
          "Utilla",
          "Computer Interface"
         ]
+     },
+     {
+      "name" : "PowerArms",
+      "tag" : "",
+      "gitPath" : "AHauntedArmy/PowerArms",
+      "releaseId" : 0,
+      "author" : "A Haunted Army",
+      "group" : "Gameplay",
+      "dependencies" : [
+        "Utilla"
+       ]
      },
      {
       "name" : "Practice Mod",
@@ -62,6 +93,17 @@
       "releaseId" : 0,
       "author" : "A Haunted Army",
       "group" : "Tweaks / Tools"
+     },
+     {
+      "name" : "MonkeSwim",
+      "tag" : "",
+      "gitPath" : "AHauntedArmy/MonkeSwim",
+      "releaseId" : 0,
+      "author" : "A Haunted Army",
+      "group" : "Tweaks / Tools",
+      "dependencies" : [
+        "Monke Map Loader"
+       ]
      },
      {
       "name" : "NoAmbient",
