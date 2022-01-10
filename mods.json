@@ -76,6 +76,18 @@
       ]
      },
      {
+      "name" : "Slippery Ice",
+      "tag" : "",
+      "gitPath" : "fchb1239/SlipperyIce",
+      "releaseId" : 0,
+      "author" : "fchb1239",
+      "group" : "Gameplay",
+      "dependencies" : [
+       "Utilla",
+       "Computer Interface"
+      ]
+     },
+     {
         "name" : "Space Monke",
         "tag" : "",
         "gitPath" : "legoandmars/SpaceMonke",
