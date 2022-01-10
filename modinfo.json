@@ -69,14 +69,14 @@
   {
     "name": "GripMonke",
     "author": "Lillie",
-    "version": "2.0",
+    "version": "2.0.1",
     "dependencies": [
       "Utilla",
       "Computer Interface"
     ],
     "git_path": "TransLillie/GripMonke",
     "group": "Gameplay",
-    "download_url": "https://github.com/TransLillie/GripMonke/releases/download/2.0/GripMonke-v2.zip"
+    "download_url": "https://github.com/TransLillie/GripMonke/releases/download/2.0.1/GripMonke-v2.0.1.zip"
   },
   {
     "name": "Monke Map Loader",
