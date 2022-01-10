@@ -67,6 +67,18 @@
     "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/v2.1.1/GorillaCosmetics-2.1.1.zip"
   },
   {
+    "name": "GripMonke",
+    "author": "Lillie",
+    "version": "2.0",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "TransLillie/GripMonke",
+    "group": "Gameplay",
+    "download_url": "https://github.com/TransLillie/GripMonke/releases/download/2.0/GripMonke-v2.zip"
+  },
+  {
     "name": "Monke Map Loader",
     "author": "Vadix",
     "version": "1.1.1",
@@ -78,6 +90,25 @@
     "git_path": "Vadix88/MonkeMapLoader",
     "group": "Gameplay",
     "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.1.1/MonkeMapLoader-1.1.0.zip"
+  },
+  {
+    "name": "MonkeSwim",
+    "author": "A Haunted Army",
+    "version": "1.0.1",
+    "dependencies": [
+      "Monke Map Loader"
+    ],
+    "git_path": "AHauntedArmy/MonkeSwim",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.1/MonkeSwim-v1.0.1.zip"
+  },
+  {
+    "name": "MonkeTrails",
+    "author": "JJoe",
+    "version": "3",
+    "git_path": "jona939s/Trail-monkey",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/jona939s/Trail-monkey/releases/download/Trail_V3/MonkeyTrails-v.zip"
   },
   {
     "name": "Newtonsoft.JSON",
@@ -94,6 +125,17 @@
     "git_path": "RusJJ/NoAmbient",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
+  },
+  {
+    "name": "PowerArms",
+    "author": "A Haunted Army",
+    "version": "1.0.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "AHauntedArmy/PowerArms",
+    "group": "Gameplay",
+    "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.1/PowerArms-v1.0.1.zip"
   },
   {
     "name": "Practice Mod",
