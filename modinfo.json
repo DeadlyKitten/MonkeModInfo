@@ -150,6 +150,18 @@
     "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.1/PracticeMod-v1.1.1.zip"
   },
   {
+    "name": "Slippery Ice",
+    "author": "fchb1239",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "fchb1239/SlipperyIce",
+    "group": "Gameplay",
+    "download_url": "https://github.com/fchb1239/SlipperyIce/releases/download/1.0.0/SlipperyIce.zip"
+  },
+  {
     "name": "Space Monke",
     "author": "Bobbie",
     "version": "1.2.1",
