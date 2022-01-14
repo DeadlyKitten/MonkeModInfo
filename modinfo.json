@@ -94,13 +94,13 @@
   {
     "name": "MonkeSwim",
     "author": "A Haunted Army",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "dependencies": [
       "Monke Map Loader"
     ],
     "git_path": "AHauntedArmy/MonkeSwim",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.1/MonkeSwim-v1.0.1.zip"
+    "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.2/MonkeSwim-v1.0.2.zip"
   },
   {
     "name": "MonkeTrails",
