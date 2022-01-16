@@ -28,6 +28,18 @@
       "group" : "Cosmetic"
      },
      {
+        "name" : "AirJump",
+        "tag" : "",
+        "gitPath" : "fchb1239/AirJump",
+        "releaseId" : 0,
+        "author" : "fchb1239",
+        "group" : "Gameplay",
+        "dependencies" : [
+         "Utilla",
+         "Computer Interface"
+        ]
+     },
+     {
       "name" : "GripMonke",
       "tag" : "",
       "gitPath" : "TransLillie/GripMonke",
