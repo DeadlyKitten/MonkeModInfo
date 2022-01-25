@@ -117,10 +117,10 @@
   {
     "name": "MonkeTrails",
     "author": "JJoe",
-    "version": "4",
+    "version": "4.2",
     "git_path": "jona939s/Trail-monkey",
     "group": "Cosmetic",
-    "download_url": "https://github.com/jona939s/Trail-monkey/releases/download/Trail_V4/MonkeyTrails-v.zip"
+    "download_url": "https://github.com/jona939s/Trail-monkey/releases/download/Trail_V4.2/MonkeyTrails-v.zip"
   },
   {
     "name": "Newtonsoft.JSON",
