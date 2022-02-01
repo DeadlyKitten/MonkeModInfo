@@ -176,13 +176,13 @@
   {
     "name": "Space Monke",
     "author": "Bobbie",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "dependencies": [
       "Utilla"
     ],
     "git_path": "legoandmars/SpaceMonke",
     "group": "Gameplay",
-    "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.0/SpaceMonke-1.2.0.zip"
+    "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.1/SpaceMonke-1.2.1.zip"
   },
   {
     "name": "TMPLoader",
