@@ -104,17 +104,6 @@
     "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.1.1/MonkeMapLoader-1.1.0.zip"
   },
   {
-    "name": "MonkeSwim",
-    "author": "A Haunted Army",
-    "version": "1.0.4",
-    "dependencies": [
-      "Monke Map Loader"
-    ],
-    "git_path": "AHauntedArmy/MonkeSwim",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.4/MonkeSwim-v1.0.4.zip"
-  },
-  {
     "name": "MonkeTrails",
     "author": "JJoe",
     "version": "4.2",
