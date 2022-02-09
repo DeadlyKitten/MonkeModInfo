@@ -40,6 +40,17 @@
         ]
      },
      {
+      "name" : "Dash Monke",
+      "tag" : "",
+      "gitPath" : "Frogrilla/DashMonke",
+      "releaseId" : 0,
+      "author" : "Frogrilla",
+      "group" : "Gameplay",
+      "dependencies" : [
+       "Utilla"
+      ]
+     },
+     {
       "name" : "GripMonke",
       "tag" : "",
       "gitPath" : "TransLillie/GripMonke",
