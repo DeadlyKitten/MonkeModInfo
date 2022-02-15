@@ -13,9 +13,10 @@
         "tag" : "",
         "gitPath" : "legoandmars/GorillaCosmetics",
         "releaseId" : 0,
-        "author" : "Bobbie",
+        "author" : "Bobbie & Graic",
         "group" : "Cosmetic",
         "dependencies" : [
+         "Utilla",
          "Newtonsoft.JSON"
         ]
      },
