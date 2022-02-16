@@ -20,6 +20,14 @@
     "download_url": "https://github.com/RusJJ/BananaHook/releases/download/1.1.0/BananaHook.zip"
   },
   {
+    "name": "BepInEx",
+    "author": "BepInEx Team",
+    "version": "5.4.19",
+    "git_path": "BepInEx/BepInEx",
+    "group": "Core",
+    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.19/BepInEx_x64_5.4.19.0.zip"
+  },
+  {
     "name": "Bepinject",
     "author": "Auros",
     "version": "1.0.1",
@@ -49,6 +57,15 @@
     "git_path": "ToniMacaroni/ComputerInterface",
     "group": "Libraries",
     "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.4.8/ComputerInterface.zip"
+  },
+  {
+    "name": "Extenject",
+    "author": "svermeulen",
+    "version": "1.0.1",
+    "install_location": "BepInEx/plugins",
+    "git_path": "Auros/Bepinject",
+    "group": "Libraries",
+    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
   },
   {
     "name": "Gorilla Cosmetics",
@@ -86,6 +103,30 @@
     "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/V1.0.5/MonkeSwim-v1.0.5.zip"
   },
   {
+    "name": "MonkeTrails",
+    "author": "JJoe",
+    "version": "4.2",
+    "git_path": "jona939s/Trail-monkey",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/jona939s/Trail-monkey/releases/download/Trail_V4.2/MonkeyTrails-v.zip"
+  },
+  {
+    "name": "Newtonsoft.JSON",
+    "author": "James Newton-King",
+    "version": "12.0.3",
+    "git_path": "legoandmars/Newtonsoft.Json",
+    "group": "Libraries",
+    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
+  },
+  {
+    "name": "NoAmbient",
+    "author": "[-=KILL MAN=-] aka RusJJ",
+    "version": "1.1.0",
+    "git_path": "RusJJ/NoAmbient",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
+  },
+  {
     "name": "PowerArms",
     "author": "A Haunted Army",
     "version": "1.0.2",
@@ -95,6 +136,18 @@
     "git_path": "AHauntedArmy/PowerArms",
     "group": "Gameplay",
     "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.2/PowerArms-v1.0.2.zip"
+  },
+  {
+    "name": "Practice Mod",
+    "author": "Graic",
+    "version": "1.1.1",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "Graicc/PracticeMod",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.1/PracticeMod-v1.1.1.zip"
   },
   {
     "name": "Slippery Ice",
@@ -134,5 +187,16 @@
     "git_path": "legoandmars/Utilla",
     "group": "Libraries",
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.0/Utilla-1.6.0.zip"
+  },
+  {
+    "name": "YURFitGorillaTag",
+    "author": "A Haunted Army & fchb1239",
+    "version": "1.0.3",
+    "dependencies": [
+      "TMPLoader"
+    ],
+    "git_path": "AHauntedArmy/YURFitGorillaTag",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/YURFitGorillaTag/releases/download/1.0.3/YURFitGorillaTag-v1.0.3.zip"
   }
 ]
