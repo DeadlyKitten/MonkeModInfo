@@ -20,14 +20,6 @@
     "download_url": "https://github.com/RusJJ/BananaHook/releases/download/1.1.0/BananaHook.zip"
   },
   {
-    "name": "BepInEx",
-    "author": "BepInEx Team",
-    "version": "5.4.19",
-    "git_path": "BepInEx/BepInEx",
-    "group": "Core",
-    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.19/BepInEx_x64_5.4.19.0.zip"
-  },
-  {
     "name": "Bepinject",
     "author": "Auros",
     "version": "1.0.1",
@@ -59,6 +51,17 @@
     "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.4.8/ComputerInterface.zip"
   },
   {
+    "name": "Gorilla Cosmetics",
+    "author": "Bobbie",
+    "version": "2.1.1",
+    "dependencies": [
+      "Newtonsoft.JSON"
+    ],
+    "git_path": "legoandmars/GorillaCosmetics",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/v2.1.1/GorillaCosmetics-2.1.1.zip"
+  },
+  {
     "name": "Monke Map Loader",
     "author": "Vadix",
     "version": "1.1.2",
@@ -83,22 +86,6 @@
     "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/V1.0.5/MonkeSwim-v1.0.5.zip"
   },
   {
-    "name": "Newtonsoft.JSON",
-    "author": "James Newton-King",
-    "version": "12.0.3",
-    "git_path": "legoandmars/Newtonsoft.Json",
-    "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
-  },
-  {
-    "name": "NoAmbient",
-    "author": "[-=KILL MAN=-] aka RusJJ",
-    "version": "1.1.0",
-    "git_path": "RusJJ/NoAmbient",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
-  },
-  {
     "name": "PowerArms",
     "author": "A Haunted Army",
     "version": "1.0.2",
@@ -108,18 +95,6 @@
     "git_path": "AHauntedArmy/PowerArms",
     "group": "Gameplay",
     "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.2/PowerArms-v1.0.2.zip"
-  },
-  {
-    "name": "Practice Mod",
-    "author": "Graic",
-    "version": "1.1.1",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "Graicc/PracticeMod",
-    "group": "Gameplay",
-    "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.1/PracticeMod-v1.1.1.zip"
   },
   {
     "name": "Slippery Ice",
