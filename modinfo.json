@@ -59,6 +59,17 @@
     "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.4.8/ComputerInterface.zip"
   },
   {
+    "name": "Dash Monke",
+    "author": "Frogrilla",
+    "version": "1.0.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "Frogrilla/DashMonke",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Frogrilla/DashMonke/releases/download/1.0.1/DashMonke-v1.0.1.zip"
+  },
+  {
     "name": "Extenject",
     "author": "svermeulen",
     "version": "1.0.1",
@@ -69,9 +80,10 @@
   },
   {
     "name": "Gorilla Cosmetics",
-    "author": "Bobbie",
+    "author": "Bobbie & Graic",
     "version": "2.1.1",
     "dependencies": [
+      "Utilla",
       "Newtonsoft.JSON"
     ],
     "git_path": "legoandmars/GorillaCosmetics",
