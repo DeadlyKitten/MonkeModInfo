@@ -13,9 +13,10 @@
         "tag" : "",
         "gitPath" : "legoandmars/GorillaCosmetics",
         "releaseId" : 0,
-        "author" : "Bobbie",
+        "author" : "Bobbie & Graic",
         "group" : "Cosmetic",
         "dependencies" : [
+         "Utilla",
          "Newtonsoft.JSON"
         ]
      },
@@ -38,6 +39,17 @@
          "Utilla",
          "Computer Interface"
         ]
+     },
+     {
+      "name" : "Dash Monke",
+      "tag" : "",
+      "gitPath" : "Frogrilla/DashMonke",
+      "releaseId" : 0,
+      "author" : "Frogrilla",
+      "group" : "Gameplay",
+      "dependencies" : [
+       "Utilla"
+      ]
      },
      {
       "name" : "GripMonke",
