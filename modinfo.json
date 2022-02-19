@@ -81,14 +81,14 @@
   {
     "name": "Gorilla Cosmetics",
     "author": "Bobbie & Graic",
-    "version": "2.1.1",
+    "version": "3.0.0",
     "dependencies": [
       "Utilla",
       "Newtonsoft.JSON"
     ],
     "git_path": "legoandmars/GorillaCosmetics",
     "group": "Cosmetic",
-    "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/v2.1.1/GorillaCosmetics-2.1.1.zip"
+    "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/v3.0.0/GorillaCosmetics-3.0.0.zip"
   },
   {
     "name": "Monke Map Loader",
