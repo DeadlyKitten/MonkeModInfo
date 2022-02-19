@@ -64,6 +64,17 @@
       ]
      },
      {
+      "name" : "Iron Monke",
+      "tag" : "",
+      "gitPath" : "BzzzThe18th/IronMonkePC",
+      "releaseId" : 0,
+      "author" : "Buzz Bzzz bzz BZZZ The 18th",
+      "group" : "Gameplay",
+      "dependencies" : [
+       "Utilla"
+      ]
+     },
+     {
         "name" : "Monke Map Loader",
         "tag" : "",
         "gitPath" : "Vadix88/MonkeMapLoader",
@@ -129,6 +140,17 @@
       "releaseId" : 0,
       "author" : "A Haunted Army",
       "group" : "Tweaks / Tools"
+     },
+     {
+      "name" : "Haunted Mod Menu",
+      "tag" : "",
+      "gitPath" : "AHauntedArmy/HauntedModMenu",
+      "releaseId" : 0,
+      "author" : "A Haunted Army",
+      "group" : "Tweaks / Tools",
+      "dependencies" : [
+        "Utilla"
+      ]
      },
      {
       "name" : "MonkeSwim",
