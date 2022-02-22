@@ -91,6 +91,28 @@
     "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/v3.0.0/GorillaCosmetics-3.0.0.zip"
   },
   {
+    "name": "Haunted Mod Menu",
+    "author": "A Haunted Army",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "AHauntedArmy/HauntedModMenu",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/HauntedModMenu/releases/download/1.0.0/HauntedModMenu-v1.0.0.zip"
+  },
+  {
+    "name": "Iron Monke",
+    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/IronMonkePC",
+    "group": "Gameplay",
+    "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.0/IronMonke-v1.0.0.zip"
+  },
+  {
     "name": "Monke Map Loader",
     "author": "Vadix",
     "version": "1.1.2",
