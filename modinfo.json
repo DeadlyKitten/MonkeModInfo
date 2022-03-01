@@ -81,14 +81,14 @@
   {
     "name": "Gorilla Cosmetics",
     "author": "Bobbie & Graic",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "dependencies": [
       "Utilla",
       "Newtonsoft.JSON"
     ],
     "git_path": "legoandmars/GorillaCosmetics",
     "group": "Cosmetic",
-    "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/v3.0.0/GorillaCosmetics-3.0.0.zip"
+    "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/v3.0.1/GorillaCosmetics-3.0.1.zip"
   },
   {
     "name": "Haunted Mod Menu",
