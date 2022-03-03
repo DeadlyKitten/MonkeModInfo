@@ -115,7 +115,7 @@
   {
     "name": "Monke Map Loader",
     "author": "Vadix",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "dependencies": [
       "Newtonsoft.JSON",
       "Utilla",
@@ -123,7 +123,7 @@
     ],
     "git_path": "Vadix88/MonkeMapLoader",
     "group": "Gameplay",
-    "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.1.1/MonkeMapLoader-1.1.0.zip"
+    "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.1.2/MonkeMapLoader-1.1.2.zip"
   },
   {
     "name": "MonkeSwim",
@@ -225,12 +225,12 @@
   {
     "name": "YURFitGorillaTag",
     "author": "A Haunted Army & fchb1239",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "dependencies": [
       "TMPLoader"
     ],
     "git_path": "AHauntedArmy/YURFitGorillaTag",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/YURFitGorillaTag/releases/download/1.0.2/YURFitGorillaTag-v1.0.2.zip"
+    "download_url": "https://github.com/AHauntedArmy/YURFitGorillaTag/releases/download/1.0.3/YURFitGorillaTag-v1.0.3.zip"
   }
 ]
