@@ -1,0 +1,19 @@
+name: Validate JSON
+on: 
+  push:
+    paths:
+      - './mods.json'
+  pull_request:
+    paths:
+      - './mods.json'
+
+jobs:
+  verify-json-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./mods.schema.json
+          INPUT_JSONS: ./mods.json
