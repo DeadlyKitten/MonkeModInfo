@@ -1,5 +1,17 @@
 [
   {
+    "name": "AirJump",
+    "author": "fchb1239",
+    "version": "1.0.2",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "fchb1239/AirJump",
+    "group": "Gameplay",
+    "download_url": "https://github.com/fchb1239/AirJump/releases/download/1.0.2/AirJump.zip"
+  },
+  {
     "name": "BananaHook",
     "author": "[-=KILL MAN=-] aka RusJJ",
     "version": "1.2.0",
@@ -45,6 +57,17 @@
     "git_path": "ToniMacaroni/ComputerInterface",
     "group": "Libraries",
     "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.4.8/ComputerInterface.zip"
+  },
+  {
+    "name": "Dash Monke",
+    "author": "Frogrilla",
+    "version": "1.0.2",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "Frogrilla/DashMonke",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Frogrilla/DashMonke/releases/download/1.0.2/DashMonke-v1.0.2.zip"
   },
   {
     "name": "Extenject",
