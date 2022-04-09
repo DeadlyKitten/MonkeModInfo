@@ -123,6 +123,17 @@
       ]
      },
      {
+      "name" : "Solid Monkeys",
+      "tag" : "",
+      "gitPath" : "AHauntedArmy/SolidMonkeys",
+      "releaseId" : 0,
+      "author" : "A Haunted Army",
+      "group" : "Gameplay",
+      "dependencies" : [
+       "Utilla"
+      ]
+     },
+     {
         "name" : "Space Monke",
         "tag" : "",
         "gitPath" : "legoandmars/SpaceMonke",
