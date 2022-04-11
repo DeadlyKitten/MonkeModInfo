@@ -137,14 +137,6 @@
     "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.7/MonkeSwim-v1.0.7.zip"
   },
   {
-    "name": "MonkeTrails",
-    "author": "JJoe",
-    "version": "4.2",
-    "git_path": "jona939s/Trail-monkey",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/jona939s/Trail-monkey/releases/download/Trail_V4.2/MonkeyTrails-v.zip"
-  },
-  {
     "name": "Newtonsoft.JSON",
     "author": "James Newton-King",
     "version": "12.0.3",
@@ -182,6 +174,18 @@
     "git_path": "Graicc/PracticeMod",
     "group": "Gameplay",
     "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.2/PracticeMod-v1.1.2.zip"
+  },
+  {
+    "name": "Rising Lava",
+    "author": "BoopetyDoopety",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "ChillGunner/RisingLava",
+    "group": "Gameplay",
+    "download_url": "https://github.com/ChillGunner/RisingLava/releases/download/1.0.0/RisingLava.zip"
   },
   {
     "name": "Slippery Ice",
