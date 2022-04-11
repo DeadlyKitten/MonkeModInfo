@@ -21,14 +21,6 @@
         ]
      },
      {
-      "name" : "MonkeTrails",
-      "tag" : "",
-      "gitPath" : "jona939s/Trail-monkey",
-      "releaseId" : 0,
-      "author" : "JJoe",
-      "group" : "Cosmetic"
-     },
-     {
         "name" : "AirJump",
         "tag" : "",
         "gitPath" : "fchb1239/AirJump",
@@ -57,6 +49,18 @@
       "gitPath" : "TransLillie/GripMonke",
       "releaseId" : 0,
       "author" : "Lillie",
+      "group" : "Gameplay",
+      "dependencies" : [
+       "Utilla",
+       "Computer Interface"
+      ]
+     },
+     {
+      "name" : "Rising Lava",
+      "tag" : "",
+      "gitPath" : "ChillGunner/RisingLava",
+      "releaseId" : 0,
+      "author" : "BoopetyDoopety",
       "group" : "Gameplay",
       "dependencies" : [
        "Utilla",
