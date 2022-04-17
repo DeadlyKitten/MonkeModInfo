@@ -230,18 +230,6 @@
     "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.1/TMPLoader-v1.0.1.zip"
   },
   {
-    "name": "TagCheatDetector",
-    "author": "A Haunted Army",
-    "version": "1.0.0",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "AHauntedArmy/TagCheatDetector",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/TagCheatDetector/releases/download/1.0.0/TagCheatDetector-v1.0.0.zip"
-  },
-  {
     "name": "Utilla",
     "author": "Bobbie",
     "version": "1.6.3",
