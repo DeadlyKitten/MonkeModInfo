@@ -91,6 +91,17 @@
     "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/v3.0.1/GorillaCosmetics-3.0.1.zip"
   },
   {
+    "name": "Grav Monke",
+    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/Grav-Monke-PC",
+    "group": "Gameplay",
+    "download_url": "https://github.com/BzzzThe18th/Grav-Monke-PC/releases/download/1.0.0/GravMonke-v1.0.0.zip"
+  },
+  {
     "name": "Haunted Mod Menu",
     "author": "A Haunted Army",
     "version": "1.0.0",
@@ -111,6 +122,28 @@
     "git_path": "BzzzThe18th/IronMonkePC",
     "group": "Gameplay",
     "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.1/IronMonke-v1.0.1.zip"
+  },
+  {
+    "name": "LIV",
+    "author": "Raicuparta",
+    "version": "1.1.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "LIV/GorillaTagLIV",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/LIV/GorillaTagLIV/releases/download/v1.1.0/GorillaTagLIV.zip"
+  },
+  {
+    "name": "Marry Poppins",
+    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "version": "1.0.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/Marry-Poppins-PC",
+    "group": "Gameplay",
+    "download_url": "https://github.com/BzzzThe18th/Marry-Poppins-PC/releases/download/1.0.1/MarryPoppins-v1.0.1.zip"
   },
   {
     "name": "Monke Map Loader",
@@ -176,6 +209,17 @@
     "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.2/PracticeMod-v1.1.2.zip"
   },
   {
+    "name": "Rain Disabler",
+    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/Rain-Disabler-PC",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/BzzzThe18th/Rain-Disabler-PC/releases/download/1.0.0/RainToggle-v1.0.0.zip"
+  },
+  {
     "name": "Rising Lava",
     "author": "BoopetyDoopety",
     "version": "1.0.2",
@@ -220,6 +264,17 @@
     "git_path": "legoandmars/SpaceMonke",
     "group": "Gameplay",
     "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.3/SpaceMonke-1.2.3.zip"
+  },
+  {
+    "name": "Super Monke",
+    "author": "fchb1239",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "fchb1239/SuperMonke",
+    "group": "Gameplay",
+    "download_url": "https://github.com/fchb1239/SuperMonke/releases/download/1.0.0/SuperMonke.zip"
   },
   {
     "name": "TMPLoader",
