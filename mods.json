@@ -21,6 +21,17 @@
         ]
      },
      {
+      "name" : "Rain Disabler",
+      "tag" : "",
+      "gitPath" : "BzzzThe18th/Rain-Disabler-PC",
+      "releaseId" : 0,
+      "author" : "Buzz Bzzz bzz BZZZ The 18th",
+      "group" : "Cosmetic",
+      "dependencies" : [
+       "Utilla"
+      ]
+     },
+     {
         "name" : "AirJump",
         "tag" : "",
         "gitPath" : "fchb1239/AirJump",
@@ -79,6 +90,28 @@
       ]
      },
      {
+      "name" : "Marry Poppins",
+      "tag" : "",
+      "gitPath" : "BzzzThe18th/Marry-Poppins-PC",
+      "releaseId" : 0,
+      "author" : "Buzz Bzzz bzz BZZZ The 18th",
+      "group" : "Gameplay",
+      "dependencies" : [
+       "Utilla"
+      ]
+     },
+     {
+      "name" : "Grav Monke",
+      "tag" : "",
+      "gitPath" : "BzzzThe18th/Grav-Monke-PC",
+      "releaseId" : 0,
+      "author" : "Buzz Bzzz bzz BZZZ The 18th",
+      "group" : "Gameplay",
+      "dependencies" : [
+       "Utilla"
+      ]
+     },
+     {
         "name" : "Monke Map Loader",
         "tag" : "",
         "gitPath" : "Vadix88/MonkeMapLoader",
@@ -127,6 +160,17 @@
       ]
      },
      {
+      "name" : "Super Monke",
+      "tag" : "",
+      "gitPath" : "fchb1239/SuperMonke",
+      "releaseId" : 0,
+      "author" : "fchb1239",
+      "group" : "Gameplay",
+      "dependencies" : [
+       "Utilla"
+      ]
+     },
+     {
       "name" : "Solid Monkeys",
       "tag" : "",
       "gitPath" : "AHauntedArmy/SolidMonkeys",
@@ -162,6 +206,17 @@
       "gitPath" : "AHauntedArmy/HauntedModMenu",
       "releaseId" : 0,
       "author" : "A Haunted Army",
+      "group" : "Tweaks / Tools",
+      "dependencies" : [
+        "Utilla"
+      ]
+     },
+     {
+      "name" : "LIV",
+      "tag" : "",
+      "gitPath" : "LIV/GorillaTagLIV",
+      "releaseId" : 0,
+      "author" : "Raicuparta",
       "group" : "Tweaks / Tools",
       "dependencies" : [
         "Utilla"
