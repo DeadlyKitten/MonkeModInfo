@@ -5,6 +5,8 @@ on:
       - 'master'
   schedule:
   - cron: '*/20 * * * *'
+  issue_comment:
+    types: [ edited ]
 
 jobs:
   test:
