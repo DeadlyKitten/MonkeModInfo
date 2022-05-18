@@ -128,7 +128,8 @@
     "author": "Raicuparta",
     "version": "1.3.0",
     "dependencies": [
-      "Utilla"
+      "Utilla",
+      "Computer Interface"
     ],
     "git_path": "LIV/GorillaTagLIV",
     "group": "Tweaks / Tools",
