@@ -219,7 +219,8 @@
       "author" : "Raicuparta",
       "group" : "Tweaks / Tools",
       "dependencies" : [
-        "Utilla"
+        "Utilla",
+        "Computer Interface"
       ]
      },
      {
