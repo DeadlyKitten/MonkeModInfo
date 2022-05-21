@@ -75,6 +75,18 @@
       ]
      },
      {
+        "name" : "Monke Bazooka",
+        "tag" : "",
+        "gitPath" : "Waulta/MonkeBazooka",
+        "releaseId" : 0,
+        "author" : "Waulta",
+        "group" : "Gameplay",
+        "dependencies" : [
+         "Utilla",
+         "Computer Interface"
+        ]
+     },
+     {
         "name" : "Monke Map Loader",
         "tag" : "",
         "gitPath" : "Vadix88/MonkeMapLoader",
