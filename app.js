@@ -1,15 +1,21 @@
 const https = require('https');
 const fs = require('fs');
 
-const prefix = 'https://api.github.com/repos/';
+const prefix = 'https://api.github.com/';
+const repos = 'repos/';
+const repositories = 'repositories/';
 const postfix = '/releases/latest';
 
 let inputJSON = fs.readFileSync('mods.json');
 let modList = JSON.parse(inputJSON);
 let result = []
 
+function isNumeric(value) {
+  return /^-?\d+$/.test(value);
+}
+
 modList.mods.forEach(mod => 
-  https.get(`${prefix}${mod.gitPath}${postfix}`, { headers: { 'User-Agent' : 'DeadlyKitten/MonkeModInfo' ,'Authorization': `Token ${process.env.SECRET}`}},(res) => {
+  https.get(`${prefix}${!isNumeric(mod.gitPath) ? repos : repositories}${mod.gitPath}${postfix}`, { headers: { 'User-Agent' : 'DeadlyKitten/MonkeModInfo' ,'Authorization': `Token ${process.env.SECRET}`}},(res) => {
     let body = "";
 
       res.on("data", (chunk) => {
@@ -31,6 +37,7 @@ modList.mods.forEach(mod =>
               'download_url': json.assets[mod.releaseId].browser_download_url
             });
           } catch (error) {
+              console.error(mod.gitPath);
               console.error(error.message);
           };
     });

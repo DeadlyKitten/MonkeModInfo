@@ -243,18 +243,6 @@
       "group" : "Tweaks / Tools"
      },
      {
-      "name" : "TagCheatDetector",
-      "tag" : "",
-      "gitPath" : "AHauntedArmy/TagCheatDetector",
-      "releaseId" : 0,
-      "author" : "A Haunted Army",
-      "group" : "Tweaks / Tools",
-      "dependencies" : [
-       "Utilla",
-       "Computer Interface"
-      ]
-     },
-     {
       "name" : "YURFitGorillaTag",
       "tag" : "",
       "gitPath" : "AHauntedArmy/YURFitGorillaTag",
