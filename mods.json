@@ -90,6 +90,18 @@
       ]
      },
      {
+        "name" : "Monke Bazooka",
+        "tag" : "",
+        "gitPath" : "Waulta/MonkeBazooka",
+        "releaseId" : 0,
+        "author" : "Waulta",
+        "group" : "Gameplay",
+        "dependencies" : [
+         "Utilla",
+         "Computer Interface"
+        ]
+     },
+     {
       "name" : "Marry Poppins",
       "tag" : "",
       "gitPath" : "BzzzThe18th/Marry-Poppins-PC",
