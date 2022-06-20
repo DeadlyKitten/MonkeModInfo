@@ -12,14 +12,6 @@
     "download_url": "https://github.com/fchb1239/AirJump/releases/download/1.0.2/AirJump.zip"
   },
   {
-    "name": "BananaHook",
-    "author": "[-=KILL MAN=-] aka RusJJ",
-    "version": "1.3.0",
-    "git_path": "RusJJ/BananaHook",
-    "group": "Libraries",
-    "download_url": "https://github.com/RusJJ/BananaHook/releases/download/1.3.0/BananaHook.zip"
-  },
-  {
     "name": "BepInEx",
     "author": "BepInEx Team",
     "version": "5.4.19",
@@ -100,18 +92,6 @@
     "git_path": "BzzzThe18th/Grav-Monke-PC",
     "group": "Gameplay",
     "download_url": "https://github.com/BzzzThe18th/Grav-Monke-PC/releases/download/1.0.0/GravMonke-v1.0.0.zip"
-  },
-  {
-    "name": "GripMonke",
-    "author": "Lillie",
-    "version": "2.1.1",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "407331629",
-    "group": "Gameplay",
-    "download_url": "https://github.com/WowItsKaylie/GripMonke/releases/download/2.1.1/GripMonke-v2.1.1.zip"
   },
   {
     "name": "Haunted Mod Menu",
@@ -278,28 +258,6 @@
     "git_path": "AHauntedArmy/SolidMonkeys",
     "group": "Gameplay",
     "download_url": "https://github.com/AHauntedArmy/SolidMonkeys/releases/download/1.0.1/SolidMonkeys-v1.0.1.zip"
-  },
-  {
-    "name": "Space Monke",
-    "author": "Bobbie",
-    "version": "1.2.3",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "legoandmars/SpaceMonke",
-    "group": "Gameplay",
-    "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.3/SpaceMonke-1.2.3.zip"
-  },
-  {
-    "name": "Super Monke",
-    "author": "fchb1239",
-    "version": "1.0.0",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "fchb1239/SuperMonke",
-    "group": "Gameplay",
-    "download_url": "https://github.com/fchb1239/SuperMonke/releases/download/1.0.0/SuperMonke.zip"
   },
   {
     "name": "TMPLoader",
