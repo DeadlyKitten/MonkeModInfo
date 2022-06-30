@@ -173,7 +173,7 @@
   {
     "name": "Monke Map Loader",
     "author": "Vadix",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "dependencies": [
       "Newtonsoft.JSON",
       "Utilla",
@@ -181,7 +181,7 @@
     ],
     "git_path": "Vadix88/MonkeMapLoader",
     "group": "Gameplay",
-    "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.0/MonkeMapHub-1.2.0.zip"
+    "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.1/MonkeMapHub-1.2.1.zip"
   },
   {
     "name": "MonkeSwim",
