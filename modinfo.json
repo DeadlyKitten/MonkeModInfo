@@ -42,21 +42,21 @@
   {
     "name": "BrokenController",
     "author": "A Haunted Army",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "git_path": "AHauntedArmy/BrokenController",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.0.1/BrokenController-v1.0.1.zip"
+    "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.1.0/BrokenController-v1.1.0.zip"
   },
   {
     "name": "Computer Interface",
     "author": "Toni Macaroni",
-    "version": "1.4.11",
+    "version": "1.5.0",
     "dependencies": [
       "Bepinject"
     ],
     "git_path": "ToniMacaroni/ComputerInterface",
     "group": "Libraries",
-    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.4.11/ComputerInterface.zip"
+    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.5.0/ComputerInterface.zip"
   },
   {
     "name": "Dash Monke",
@@ -91,6 +91,29 @@
     "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/v3.0.1/GorillaCosmetics-3.0.1.zip"
   },
   {
+    "name": "Grav Monke",
+    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/Grav-Monke-PC",
+    "group": "Gameplay",
+    "download_url": "https://github.com/BzzzThe18th/Grav-Monke-PC/releases/download/1.0.0/GravMonke-v1.0.0.zip"
+  },
+  {
+    "name": "GripMonke",
+    "author": "Lillie",
+    "version": "2.1.1",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "407331629",
+    "group": "Gameplay",
+    "download_url": "https://github.com/WowItsKaylie/GripMonke/releases/download/2.1.1/GripMonke-v2.1.1.zip"
+  },
+  {
     "name": "Haunted Mod Menu",
     "author": "A Haunted Army",
     "version": "1.0.0",
@@ -113,9 +136,44 @@
     "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.1/IronMonke-v1.0.1.zip"
   },
   {
+    "name": "LIV",
+    "author": "Raicuparta",
+    "version": "1.5.0",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "LIV/GorillaTagLIV",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/LIV/GorillaTagLIV/releases/download/v1.5.0/GorillaTagLIV.zip"
+  },
+  {
+    "name": "Marry Poppins",
+    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "version": "1.0.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/Marry-Poppins-PC",
+    "group": "Gameplay",
+    "download_url": "https://github.com/BzzzThe18th/Marry-Poppins-PC/releases/download/1.0.1/MarryPoppins-v1.0.1.zip"
+  },
+  {
+    "name": "Monke Bazooka",
+    "author": "Waulta",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "Waulta/MonkeBazooka",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Waulta/MonkeBazooka/releases/download/1.0.0/MonkeBazooka.zip"
+  },
+  {
     "name": "Monke Map Loader",
     "author": "Vadix",
-    "version": "1.1.4",
+    "version": "1.2.1",
     "dependencies": [
       "Newtonsoft.JSON",
       "Utilla",
@@ -123,7 +181,7 @@
     ],
     "git_path": "Vadix88/MonkeMapLoader",
     "group": "Gameplay",
-    "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.1.4/MonkeMapLoader-1.1.4.zip"
+    "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.1/MonkeMapHub-1.2.1.zip"
   },
   {
     "name": "MonkeSwim",
@@ -176,6 +234,17 @@
     "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.2/PracticeMod-v1.1.2.zip"
   },
   {
+    "name": "Rain Disabler",
+    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/Rain-Disabler-PC",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/BzzzThe18th/Rain-Disabler-PC/releases/download/1.0.0/RainToggle-v1.0.0.zip"
+  },
+  {
     "name": "Rising Lava",
     "author": "BoopetyDoopety",
     "version": "1.0.2",
@@ -222,6 +291,17 @@
     "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.3/SpaceMonke-1.2.3.zip"
   },
   {
+    "name": "Super Monke",
+    "author": "fchb1239",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "fchb1239/SuperMonke",
+    "group": "Gameplay",
+    "download_url": "https://github.com/fchb1239/SuperMonke/releases/download/1.0.0/SuperMonke.zip"
+  },
+  {
     "name": "TMPLoader",
     "author": "A Haunted Army",
     "version": "1.0.1",
@@ -232,10 +312,10 @@
   {
     "name": "Utilla",
     "author": "Bobbie",
-    "version": "1.6.3",
+    "version": "1.6.4",
     "git_path": "legoandmars/Utilla",
     "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.3/Utilla-1.6.3.zip"
+    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.4/Utilla-1.6.4.zip"
   },
   {
     "name": "YURFitGorillaTag",

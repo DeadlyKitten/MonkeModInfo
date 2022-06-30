@@ -54,7 +54,7 @@
      {
       "name" : "GripMonke",
       "tag" : "",
-      "gitPath" : "TransLillie/GripMonke",
+      "gitPath" : "407331629",
       "releaseId" : 0,
       "author" : "Lillie",
       "group" : "Gameplay",
@@ -67,6 +67,40 @@
       "name" : "Iron Monke",
       "tag" : "",
       "gitPath" : "BzzzThe18th/IronMonkePC",
+      "releaseId" : 0,
+      "author" : "Buzz Bzzz bzz BZZZ The 18th",
+      "group" : "Gameplay",
+      "dependencies" : [
+       "Utilla"
+      ]
+     },
+     {
+        "name" : "Monke Bazooka",
+        "tag" : "",
+        "gitPath" : "Waulta/MonkeBazooka",
+        "releaseId" : 0,
+        "author" : "Waulta",
+        "group" : "Gameplay",
+        "dependencies" : [
+         "Utilla",
+         "Computer Interface"
+        ]
+     },
+     {
+      "name" : "Marry Poppins",
+      "tag" : "",
+      "gitPath" : "BzzzThe18th/Marry-Poppins-PC",
+      "releaseId" : 0,
+      "author" : "Buzz Bzzz bzz BZZZ The 18th",
+      "group" : "Gameplay",
+      "dependencies" : [
+       "Utilla"
+      ]
+     },
+     {
+      "name" : "Grav Monke",
+      "tag" : "",
+      "gitPath" : "BzzzThe18th/Grav-Monke-PC",
       "releaseId" : 0,
       "author" : "Buzz Bzzz bzz BZZZ The 18th",
       "group" : "Gameplay",
@@ -181,18 +215,6 @@
       "releaseId" : 0,
       "author" : "[-=KILL MAN=-] aka RusJJ",
       "group" : "Tweaks / Tools"
-     },
-     {
-      "name" : "TagCheatDetector",
-      "tag" : "",
-      "gitPath" : "AHauntedArmy/TagCheatDetector",
-      "releaseId" : 0,
-      "author" : "A Haunted Army",
-      "group" : "Tweaks / Tools",
-      "dependencies" : [
-       "Utilla",
-       "Computer Interface"
-      ]
      },
      {
       "name" : "YURFitGorillaTag",
