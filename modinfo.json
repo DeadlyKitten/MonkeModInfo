@@ -184,6 +184,18 @@
     "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.1/MonkeMapHub-1.2.1.zip"
   },
   {
+    "name": "Monke Tunes",
+    "author": "Frogrilla",
+    "version": "1.0.3",
+    "dependencies": [
+      "TMPLoader",
+      "Computer Interface"
+    ],
+    "git_path": "Frogrilla/MonkeTunes",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/Frogrilla/MonkeTunes/releases/download/1.0.3/MonkeTunes-1.0.3.zip"
+  },
+  {
     "name": "MonkeSwim",
     "author": "A Haunted Army",
     "version": "1.0.7",
