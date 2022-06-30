@@ -21,15 +21,12 @@
         ]
      },
      {
-      "name" : "Rain Disabler",
+      "name" : "MonkeTrails",
       "tag" : "",
-      "gitPath" : "BzzzThe18th/Rain-Disabler-PC",
+      "gitPath" : "jona939s/Trail-monkey",
       "releaseId" : 0,
-      "author" : "Buzz Bzzz bzz BZZZ The 18th",
-      "group" : "Cosmetic",
-      "dependencies" : [
-       "Utilla"
-      ]
+      "author" : "JJoe",
+      "group" : "Cosmetic"
      },
      {
         "name" : "AirJump",
@@ -67,43 +64,9 @@
       ]
      },
      {
-      "name" : "Rising Lava",
-      "tag" : "",
-      "gitPath" : "ChillGunner/RisingLava",
-      "releaseId" : 0,
-      "author" : "BoopetyDoopety",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla",
-       "Computer Interface"
-      ]
-     },
-     {
       "name" : "Iron Monke",
       "tag" : "",
       "gitPath" : "BzzzThe18th/IronMonkePC",
-      "releaseId" : 0,
-      "author" : "Buzz Bzzz bzz BZZZ The 18th",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla"
-      ]
-     },
-     {
-      "name" : "Marry Poppins",
-      "tag" : "",
-      "gitPath" : "BzzzThe18th/Marry-Poppins-PC",
-      "releaseId" : 0,
-      "author" : "Buzz Bzzz bzz BZZZ The 18th",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla"
-      ]
-     },
-     {
-      "name" : "Grav Monke",
-      "tag" : "",
-      "gitPath" : "BzzzThe18th/Grav-Monke-PC",
       "releaseId" : 0,
       "author" : "Buzz Bzzz bzz BZZZ The 18th",
       "group" : "Gameplay",
@@ -160,17 +123,6 @@
       ]
      },
      {
-      "name" : "Super Monke",
-      "tag" : "",
-      "gitPath" : "fchb1239/SuperMonke",
-      "releaseId" : 0,
-      "author" : "fchb1239",
-      "group" : "Gameplay",
-      "dependencies" : [
-       "Utilla"
-      ]
-     },
-     {
       "name" : "Solid Monkeys",
       "tag" : "",
       "gitPath" : "AHauntedArmy/SolidMonkeys",
@@ -209,18 +161,6 @@
       "group" : "Tweaks / Tools",
       "dependencies" : [
         "Utilla"
-      ]
-     },
-     {
-      "name" : "LIV",
-      "tag" : "",
-      "gitPath" : "LIV/GorillaTagLIV",
-      "releaseId" : 0,
-      "author" : "Raicuparta",
-      "group" : "Tweaks / Tools",
-      "dependencies" : [
-        "Utilla",
-        "Computer Interface"
       ]
      },
      {
@@ -316,7 +256,7 @@
      {
       "name" : "BananaHook",
       "tag" : "",
-      "gitPath" : "RusJJ/BananaHook",
+      "gitPath" : "Graicc/BananaHook",
       "releaseId" : 0,
       "author" : "[-=KILL MAN=-] aka RusJJ",
       "group" : "Libraries"
