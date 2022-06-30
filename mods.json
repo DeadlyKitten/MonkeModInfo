@@ -21,12 +21,15 @@
         ]
      },
      {
-      "name" : "MonkeTrails",
+      "name" : "Rain Disabler",
       "tag" : "",
-      "gitPath" : "jona939s/Trail-monkey",
+      "gitPath" : "BzzzThe18th/Rain-Disabler-PC",
       "releaseId" : 0,
-      "author" : "JJoe",
-      "group" : "Cosmetic"
+      "author" : "Buzz Bzzz bzz BZZZ The 18th",
+      "group" : "Cosmetic",
+      "dependencies" : [
+       "Utilla"
+      ]
      },
      {
         "name" : "AirJump",
@@ -57,6 +60,18 @@
       "gitPath" : "407331629",
       "releaseId" : 0,
       "author" : "Lillie",
+      "group" : "Gameplay",
+      "dependencies" : [
+       "Utilla",
+       "Computer Interface"
+      ]
+     },
+     {
+      "name" : "Rising Lava",
+      "tag" : "",
+      "gitPath" : "ChillGunner/RisingLava",
+      "releaseId" : 0,
+      "author" : "BoopetyDoopety",
       "group" : "Gameplay",
       "dependencies" : [
        "Utilla",
@@ -157,6 +172,17 @@
       ]
      },
      {
+      "name" : "Super Monke",
+      "tag" : "",
+      "gitPath" : "fchb1239/SuperMonke",
+      "releaseId" : 0,
+      "author" : "fchb1239",
+      "group" : "Gameplay",
+      "dependencies" : [
+       "Utilla"
+      ]
+     },
+     {
       "name" : "Solid Monkeys",
       "tag" : "",
       "gitPath" : "AHauntedArmy/SolidMonkeys",
@@ -195,6 +221,18 @@
       "group" : "Tweaks / Tools",
       "dependencies" : [
         "Utilla"
+      ]
+     },
+     {
+      "name" : "LIV",
+      "tag" : "",
+      "gitPath" : "LIV/GorillaTagLIV",
+      "releaseId" : 0,
+      "author" : "Raicuparta",
+      "group" : "Tweaks / Tools",
+      "dependencies" : [
+        "Utilla",
+        "Computer Interface"
       ]
      },
      {
