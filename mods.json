@@ -247,18 +247,6 @@
        ]
      },
      {
-      "name" : "Monke Tunes",
-      "tag" : "",
-      "gitPath" : "Frogrilla/MonkeTunes",
-      "releaseId" : 0,
-      "author" : "Frogrilla",
-      "group" : "Tweaks / Tools",
-      "dependencies" : [
-        "TMPLoader",
-        "Computer Interface"
-       ]
-     },
-     {
       "name" : "NoAmbient",
       "tag" : "",
       "gitPath" : "RusJJ/NoAmbient",
