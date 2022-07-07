@@ -50,13 +50,13 @@
   {
     "name": "Computer Interface",
     "author": "Toni Macaroni",
-    "version": "1.5.0",
+    "version": "1.4.14",
     "dependencies": [
       "Bepinject"
     ],
     "git_path": "ToniMacaroni/ComputerInterface",
     "group": "Libraries",
-    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.5.0/ComputerInterface.zip"
+    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.4.14/ComputerInterface.zip"
   },
   {
     "name": "Dash Monke",
@@ -89,17 +89,6 @@
     "git_path": "legoandmars/GorillaCosmetics",
     "group": "Cosmetic",
     "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/v3.0.1/GorillaCosmetics-3.0.1.zip"
-  },
-  {
-    "name": "Grav Monke",
-    "author": "Buzz Bzzz bzz BZZZ The 18th",
-    "version": "1.0.0",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "BzzzThe18th/Grav-Monke-PC",
-    "group": "Gameplay",
-    "download_url": "https://github.com/BzzzThe18th/Grav-Monke-PC/releases/download/1.0.0/GravMonke-v1.0.0.zip"
   },
   {
     "name": "GripMonke",
