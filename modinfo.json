@@ -40,14 +40,6 @@
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
   },
   {
-    "name": "BrokenController",
-    "author": "A Haunted Army",
-    "version": "1.1.0",
-    "git_path": "AHauntedArmy/BrokenController",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.1.0/BrokenController-v1.1.0.zip"
-  },
-  {
     "name": "Computer Interface",
     "author": "Toni Macaroni",
     "version": "1.5.1",
