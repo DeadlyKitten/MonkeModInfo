@@ -304,10 +304,10 @@
   {
     "name": "TMPLoader",
     "author": "A Haunted Army",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "git_path": "AHauntedArmy/TMPLoader",
     "group": "Libraries",
-    "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/v1.0.0/TMPLoader-v1.0.0.zip"
+    "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.1/TMPLoader-v1.0.1.zip"
   },
   {
     "name": "Utilla",
