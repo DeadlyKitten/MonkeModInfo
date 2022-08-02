@@ -171,36 +171,15 @@
     "download_url": "https://github.com/Waulta/MonkeBazooka/releases/download/1.0.0/MonkeBazooka.zip"
   },
   {
-    "name": "Monke Map Loader",
-    "author": "Vadix",
-    "version": "1.2.1",
-    "dependencies": [
-      "Newtonsoft.JSON",
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "Vadix88/MonkeMapLoader",
-    "group": "Gameplay",
-    "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.1/MonkeMapHub-1.2.1.zip"
-  },
-  {
     "name": "MonkeSwim",
     "author": "A Haunted Army",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "dependencies": [
       "Monke Map Loader"
     ],
     "git_path": "AHauntedArmy/MonkeSwim",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/v1.0.6/MonkeSwim-v1.0.6.zip"
-  },
-  {
-    "name": "Newtonsoft.JSON",
-    "author": "James Newton-King",
-    "version": "12.0.3",
-    "git_path": "legoandmars/Newtonsoft.Json",
-    "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
+    "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.7/MonkeSwim-v1.0.7.zip"
   },
   {
     "name": "NoAmbient",
@@ -234,6 +213,17 @@
     "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.2/PracticeMod-v1.1.2.zip"
   },
   {
+    "name": "Rain Disabler",
+    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/Rain-Disabler-PC",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/BzzzThe18th/Rain-Disabler-PC/releases/download/1.0.0/RainToggle-v1.0.0.zip"
+  },
+  {
     "name": "Rising Lava",
     "author": "BoopetyDoopety",
     "version": "1.0.2",
@@ -258,17 +248,6 @@
     "download_url": "https://github.com/fchb1239/SlipperyIce/releases/download/1.0.3/SlipperyIce.zip"
   },
   {
-    "name": "Solid Monkeys",
-    "author": "A Haunted Army",
-    "version": "1.0.1",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "AHauntedArmy/SolidMonkeys",
-    "group": "Gameplay",
-    "download_url": "https://github.com/AHauntedArmy/SolidMonkeys/releases/download/1.0.1/SolidMonkeys-v1.0.1.zip"
-  },
-  {
     "name": "Space Monke",
     "author": "Bobbie",
     "version": "1.2.3",
@@ -278,6 +257,17 @@
     "git_path": "legoandmars/SpaceMonke",
     "group": "Gameplay",
     "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.3/SpaceMonke-1.2.3.zip"
+  },
+  {
+    "name": "Super Monke",
+    "author": "fchb1239",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "fchb1239/SuperMonke",
+    "group": "Gameplay",
+    "download_url": "https://github.com/fchb1239/SuperMonke/releases/download/1.0.0/SuperMonke.zip"
   },
   {
     "name": "TMPLoader",
