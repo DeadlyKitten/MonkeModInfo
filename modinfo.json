@@ -1,5 +1,17 @@
 [
   {
+    "name": "AirJump",
+    "author": "fchb1239",
+    "version": "1.0.2",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "fchb1239/AirJump",
+    "group": "Gameplay",
+    "download_url": "https://github.com/fchb1239/AirJump/releases/download/1.0.2/AirJump.zip"
+  },
+  {
     "name": "BananaHook",
     "author": "[-=KILL MAN=-] aka RusJJ",
     "version": "1.3.1",
@@ -170,17 +182,6 @@
     "git_path": "Vadix88/MonkeMapLoader",
     "group": "Gameplay",
     "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.1/MonkeMapHub-1.2.1.zip"
-  },
-  {
-    "name": "MonkeSwim",
-    "author": "A Haunted Army",
-    "version": "1.0.7",
-    "dependencies": [
-      "Monke Map Loader"
-    ],
-    "git_path": "AHauntedArmy/MonkeSwim",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.7/MonkeSwim-v1.0.7.zip"
   },
   {
     "name": "Newtonsoft.JSON",
