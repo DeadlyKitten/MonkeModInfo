@@ -28,15 +28,32 @@
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
   },
   {
-    "name": "Computer Interface",
-    "author": "Toni Macaroni",
-    "version": "1.5.1",
+    "name": "BrokenController",
+    "author": "A Haunted Army",
+    "version": "1.1.0",
+    "git_path": "AHauntedArmy/BrokenController",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.1.0/BrokenController-v1.1.0.zip"
+  },
+  {
+    "name": "Dash Monke",
+    "author": "Frogrilla",
+    "version": "1.0.2",
     "dependencies": [
-      "Bepinject"
+      "Utilla"
     ],
-    "git_path": "ToniMacaroni/ComputerInterface",
+    "git_path": "Frogrilla/DashMonke",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Frogrilla/DashMonke/releases/download/1.0.2/DashMonke-v1.0.2.zip"
+  },
+  {
+    "name": "Extenject",
+    "author": "svermeulen",
+    "version": "1.0.1",
+    "install_location": "BepInEx/plugins",
+    "git_path": "Auros/Bepinject",
     "group": "Libraries",
-    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.5.1/ComputerInterface.zip"
+    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
   },
   {
     "name": "Gorilla Cosmetics",
@@ -49,17 +66,6 @@
     "git_path": "legoandmars/GorillaCosmetics",
     "group": "Cosmetic",
     "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/v3.0.1/GorillaCosmetics-3.0.1.zip"
-  },
-  {
-    "name": "Grav Monke",
-    "author": "Buzz Bzzz bzz BZZZ The 18th",
-    "version": "1.0.0",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "BzzzThe18th/Grav-Monke-PC",
-    "group": "Gameplay",
-    "download_url": "https://github.com/BzzzThe18th/Grav-Monke-PC/releases/download/1.0.0/GravMonke-v1.0.0.zip"
   },
   {
     "name": "Haunted Mod Menu",
@@ -125,6 +131,29 @@
     "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
   },
   {
+    "name": "PowerArms",
+    "author": "A Haunted Army",
+    "version": "1.0.3",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "AHauntedArmy/PowerArms",
+    "group": "Gameplay",
+    "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.3/PowerArms-v1.0.3.zip"
+  },
+  {
+    "name": "Practice Mod",
+    "author": "Graic",
+    "version": "1.1.2",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "Graicc/PracticeMod",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.2/PracticeMod-v1.1.2.zip"
+  },
+  {
     "name": "Rising Lava",
     "author": "BoopetyDoopety",
     "version": "1.0.2",
@@ -135,6 +164,18 @@
     "git_path": "ChillGunner/RisingLava",
     "group": "Gameplay",
     "download_url": "https://github.com/ChillGunner/RisingLava/releases/download/1.0.2/RisingLava.zip"
+  },
+  {
+    "name": "Slippery Ice",
+    "author": "fchb1239",
+    "version": "1.0.3",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "fchb1239/SlipperyIce",
+    "group": "Gameplay",
+    "download_url": "https://github.com/fchb1239/SlipperyIce/releases/download/1.0.3/SlipperyIce.zip"
   },
   {
     "name": "Solid Monkeys",
@@ -165,5 +206,16 @@
     "git_path": "legoandmars/Utilla",
     "group": "Libraries",
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.5/Utilla-1.6.5.zip"
+  },
+  {
+    "name": "YURFitGorillaTag",
+    "author": "A Haunted Army & fchb1239",
+    "version": "1.0.3",
+    "dependencies": [
+      "TMPLoader"
+    ],
+    "git_path": "AHauntedArmy/YURFitGorillaTag",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/YURFitGorillaTag/releases/download/1.0.3/YURFitGorillaTag-v1.0.3.zip"
   }
 ]
