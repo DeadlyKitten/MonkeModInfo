@@ -1,5 +1,17 @@
 [
   {
+    "name": "AirJump",
+    "author": "fchb1239",
+    "version": "1.0.2",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "fchb1239/AirJump",
+    "group": "Gameplay",
+    "download_url": "https://github.com/fchb1239/AirJump/releases/download/1.0.2/AirJump.zip"
+  },
+  {
     "name": "BananaHook",
     "author": "[-=KILL MAN=-] aka RusJJ",
     "version": "1.3.1",
@@ -26,25 +38,6 @@
     "git_path": "Auros/Bepinject",
     "group": "Libraries",
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
-  },
-  {
-    "name": "BrokenController",
-    "author": "A Haunted Army",
-    "version": "1.1.0",
-    "git_path": "AHauntedArmy/BrokenController",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.1.0/BrokenController-v1.1.0.zip"
-  },
-  {
-    "name": "Computer Interface",
-    "author": "Toni Macaroni",
-    "version": "1.5.1",
-    "dependencies": [
-      "Bepinject"
-    ],
-    "git_path": "ToniMacaroni/ComputerInterface",
-    "group": "Libraries",
-    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.5.1/ComputerInterface.zip"
   },
   {
     "name": "Dash Monke",
@@ -124,6 +117,18 @@
     "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.1/IronMonke-v1.0.1.zip"
   },
   {
+    "name": "LIV",
+    "author": "Raicuparta",
+    "version": "1.5.0",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "LIV/GorillaTagLIV",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/LIV/GorillaTagLIV/releases/download/v1.5.0/GorillaTagLIV.zip"
+  },
+  {
     "name": "Marry Poppins",
     "author": "Buzz Bzzz bzz BZZZ The 18th",
     "version": "1.0.1",
@@ -147,15 +152,17 @@
     "download_url": "https://github.com/Waulta/MonkeBazooka/releases/download/1.0.0/MonkeBazooka.zip"
   },
   {
-    "name": "MonkeSwim",
-    "author": "A Haunted Army",
-    "version": "1.0.6",
+    "name": "Monke Map Loader",
+    "author": "Vadix",
+    "version": "1.2.1",
     "dependencies": [
-      "Monke Map Loader"
+      "Newtonsoft.JSON",
+      "Utilla",
+      "Computer Interface"
     ],
-    "git_path": "AHauntedArmy/MonkeSwim",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/v1.0.6/MonkeSwim-v1.0.6.zip"
+    "git_path": "Vadix88/MonkeMapLoader",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.1/MonkeMapHub-1.2.1.zip"
   },
   {
     "name": "Newtonsoft.JSON",
@@ -174,17 +181,6 @@
     "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
   },
   {
-    "name": "PowerArms",
-    "author": "A Haunted Army",
-    "version": "1.0.3",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "AHauntedArmy/PowerArms",
-    "group": "Gameplay",
-    "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.3/PowerArms-v1.0.3.zip"
-  },
-  {
     "name": "Practice Mod",
     "author": "Graic",
     "version": "1.1.2",
@@ -195,6 +191,17 @@
     "git_path": "Graicc/PracticeMod",
     "group": "Gameplay",
     "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.2/PracticeMod-v1.1.2.zip"
+  },
+  {
+    "name": "Rain Disabler",
+    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/Rain-Disabler-PC",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/BzzzThe18th/Rain-Disabler-PC/releases/download/1.0.0/RainToggle-v1.0.0.zip"
   },
   {
     "name": "Rising Lava",
