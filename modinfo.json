@@ -48,6 +48,17 @@
     "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.1.0/BrokenController-v1.1.0.zip"
   },
   {
+    "name": "Computer Interface",
+    "author": "Toni Macaroni",
+    "version": "1.5.1",
+    "dependencies": [
+      "Bepinject"
+    ],
+    "git_path": "ToniMacaroni/ComputerInterface",
+    "group": "Libraries",
+    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.5.1/ComputerInterface.zip"
+  },
+  {
     "name": "Dash Monke",
     "author": "Frogrilla",
     "version": "1.0.2",
@@ -125,18 +136,6 @@
     "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.1/IronMonke-v1.0.1.zip"
   },
   {
-    "name": "LIV",
-    "author": "Raicuparta",
-    "version": "1.5.0",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "LIV/GorillaTagLIV",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/LIV/GorillaTagLIV/releases/download/v1.5.0/GorillaTagLIV.zip"
-  },
-  {
     "name": "Marry Poppins",
     "author": "Buzz Bzzz bzz BZZZ The 18th",
     "version": "1.0.1",
@@ -175,13 +174,13 @@
   {
     "name": "MonkeSwim",
     "author": "A Haunted Army",
-    "version": "1.0.7",
+    "version": "1.0.6",
     "dependencies": [
       "Monke Map Loader"
     ],
     "git_path": "AHauntedArmy/MonkeSwim",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.7/MonkeSwim-v1.0.7.zip"
+    "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/v1.0.6/MonkeSwim-v1.0.6.zip"
   },
   {
     "name": "Newtonsoft.JSON",
@@ -198,6 +197,17 @@
     "git_path": "RusJJ/NoAmbient",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
+  },
+  {
+    "name": "PowerArms",
+    "author": "A Haunted Army",
+    "version": "1.0.3",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "AHauntedArmy/PowerArms",
+    "group": "Gameplay",
+    "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.3/PowerArms-v1.0.3.zip"
   },
   {
     "name": "Practice Mod",
@@ -267,14 +277,6 @@
     "git_path": "legoandmars/SpaceMonke",
     "group": "Gameplay",
     "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.3/SpaceMonke-1.2.3.zip"
-  },
-  {
-    "name": "TMPLoader",
-    "author": "A Haunted Army",
-    "version": "1.0.1",
-    "git_path": "AHauntedArmy/TMPLoader",
-    "group": "Libraries",
-    "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.1/TMPLoader-v1.0.1.zip"
   },
   {
     "name": "Utilla",
