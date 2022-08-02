@@ -48,17 +48,6 @@
     "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.1.0/BrokenController-v1.1.0.zip"
   },
   {
-    "name": "Computer Interface",
-    "author": "Toni Macaroni",
-    "version": "1.5.1",
-    "dependencies": [
-      "Bepinject"
-    ],
-    "git_path": "ToniMacaroni/ComputerInterface",
-    "group": "Libraries",
-    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.5.1/ComputerInterface.zip"
-  },
-  {
     "name": "Dash Monke",
     "author": "Frogrilla",
     "version": "1.0.2",
@@ -184,6 +173,17 @@
     "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.1/MonkeMapHub-1.2.1.zip"
   },
   {
+    "name": "MonkeSwim",
+    "author": "A Haunted Army",
+    "version": "1.0.7",
+    "dependencies": [
+      "Monke Map Loader"
+    ],
+    "git_path": "AHauntedArmy/MonkeSwim",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.7/MonkeSwim-v1.0.7.zip"
+  },
+  {
     "name": "Newtonsoft.JSON",
     "author": "James Newton-King",
     "version": "12.0.3",
@@ -198,17 +198,6 @@
     "git_path": "RusJJ/NoAmbient",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
-  },
-  {
-    "name": "PowerArms",
-    "author": "A Haunted Army",
-    "version": "1.0.3",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "AHauntedArmy/PowerArms",
-    "group": "Gameplay",
-    "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.3/PowerArms-v1.0.3.zip"
   },
   {
     "name": "Practice Mod",
@@ -278,17 +267,6 @@
     "git_path": "legoandmars/SpaceMonke",
     "group": "Gameplay",
     "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.3/SpaceMonke-1.2.3.zip"
-  },
-  {
-    "name": "Super Monke",
-    "author": "fchb1239",
-    "version": "1.0.0",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "fchb1239/SuperMonke",
-    "group": "Gameplay",
-    "download_url": "https://github.com/fchb1239/SuperMonke/releases/download/1.0.0/SuperMonke.zip"
   },
   {
     "name": "TMPLoader",
