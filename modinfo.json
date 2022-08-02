@@ -91,6 +91,17 @@
     "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/v3.0.1/GorillaCosmetics-3.0.1.zip"
   },
   {
+    "name": "Grav Monke",
+    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/Grav-Monke-PC",
+    "group": "Gameplay",
+    "download_url": "https://github.com/BzzzThe18th/Grav-Monke-PC/releases/download/1.0.0/GravMonke-v1.0.0.zip"
+  },
+  {
     "name": "GripMonke",
     "author": "Lillie",
     "version": "2.1.1",
@@ -125,18 +136,6 @@
     "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.1/IronMonke-v1.0.1.zip"
   },
   {
-    "name": "LIV",
-    "author": "Raicuparta",
-    "version": "1.5.0",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "LIV/GorillaTagLIV",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/LIV/GorillaTagLIV/releases/download/v1.5.0/GorillaTagLIV.zip"
-  },
-  {
     "name": "Marry Poppins",
     "author": "Buzz Bzzz bzz BZZZ The 18th",
     "version": "1.0.1",
@@ -160,12 +159,44 @@
     "download_url": "https://github.com/Waulta/MonkeBazooka/releases/download/1.0.0/MonkeBazooka.zip"
   },
   {
+    "name": "Monke Map Loader",
+    "author": "Vadix",
+    "version": "1.2.1",
+    "dependencies": [
+      "Newtonsoft.JSON",
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "Vadix88/MonkeMapLoader",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.1/MonkeMapHub-1.2.1.zip"
+  },
+  {
+    "name": "Newtonsoft.JSON",
+    "author": "James Newton-King",
+    "version": "12.0.3",
+    "git_path": "legoandmars/Newtonsoft.Json",
+    "group": "Libraries",
+    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
+  },
+  {
     "name": "NoAmbient",
     "author": "[-=KILL MAN=-] aka RusJJ",
     "version": "1.1.0",
     "git_path": "RusJJ/NoAmbient",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
+  },
+  {
+    "name": "PowerArms",
+    "author": "A Haunted Army",
+    "version": "1.0.3",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "AHauntedArmy/PowerArms",
+    "group": "Gameplay",
+    "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.3/PowerArms-v1.0.3.zip"
   },
   {
     "name": "Practice Mod",
@@ -213,17 +244,6 @@
     "git_path": "fchb1239/SlipperyIce",
     "group": "Gameplay",
     "download_url": "https://github.com/fchb1239/SlipperyIce/releases/download/1.0.3/SlipperyIce.zip"
-  },
-  {
-    "name": "Solid Monkeys",
-    "author": "A Haunted Army",
-    "version": "1.0.1",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "AHauntedArmy/SolidMonkeys",
-    "group": "Gameplay",
-    "download_url": "https://github.com/AHauntedArmy/SolidMonkeys/releases/download/1.0.1/SolidMonkeys-v1.0.1.zip"
   },
   {
     "name": "Space Monke",
