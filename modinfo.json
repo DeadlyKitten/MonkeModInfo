@@ -1,52 +1,5 @@
 [
   {
-    "name": "BananaHook",
-    "author": "[-=KILL MAN=-] aka RusJJ",
-    "version": "1.3.1",
-    "git_path": "Graicc/BananaHook",
-    "group": "Libraries",
-    "download_url": "https://github.com/Graicc/BananaHook/releases/download/1.3.1/BananaHook.zip"
-  },
-  {
-    "name": "BepInEx",
-    "author": "BepInEx Team",
-    "version": "5.4.21",
-    "git_path": "BepInEx/BepInEx",
-    "group": "Core",
-    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x64_5.4.21.0.zip"
-  },
-  {
-    "name": "Bepinject",
-    "author": "Auros",
-    "version": "1.0.1",
-    "dependencies": [
-      "Extenject"
-    ],
-    "install_location": "BepInEx/plugins",
-    "git_path": "Auros/Bepinject",
-    "group": "Libraries",
-    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
-  },
-  {
-    "name": "BrokenController",
-    "author": "A Haunted Army",
-    "version": "1.1.0",
-    "git_path": "AHauntedArmy/BrokenController",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.1.0/BrokenController-v1.1.0.zip"
-  },
-  {
-    "name": "Dash Monke",
-    "author": "Frogrilla",
-    "version": "1.0.2",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "Frogrilla/DashMonke",
-    "group": "Gameplay",
-    "download_url": "https://github.com/Frogrilla/DashMonke/releases/download/1.0.2/DashMonke-v1.0.2.zip"
-  },
-  {
     "name": "Extenject",
     "author": "svermeulen",
     "version": "1.0.1",
@@ -90,16 +43,15 @@
     "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.1/IronMonke-v1.0.1.zip"
   },
   {
-    "name": "Monke Bazooka",
-    "author": "Waulta",
-    "version": "1.0.0",
+    "name": "Marry Poppins",
+    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "version": "1.0.1",
     "dependencies": [
-      "Utilla",
-      "Computer Interface"
+      "Utilla"
     ],
-    "git_path": "Waulta/MonkeBazooka",
+    "git_path": "BzzzThe18th/Marry-Poppins-PC",
     "group": "Gameplay",
-    "download_url": "https://github.com/Waulta/MonkeBazooka/releases/download/1.0.0/MonkeBazooka.zip"
+    "download_url": "https://github.com/BzzzThe18th/Marry-Poppins-PC/releases/download/1.0.1/MarryPoppins-v1.0.1.zip"
   },
   {
     "name": "Monke Map Loader",
@@ -115,45 +67,6 @@
     "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.1/MonkeMapHub-1.2.1.zip"
   },
   {
-    "name": "Newtonsoft.JSON",
-    "author": "James Newton-King",
-    "version": "12.0.3",
-    "git_path": "legoandmars/Newtonsoft.Json",
-    "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
-  },
-  {
-    "name": "NoAmbient",
-    "author": "[-=KILL MAN=-] aka RusJJ",
-    "version": "1.1.0",
-    "git_path": "RusJJ/NoAmbient",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
-  },
-  {
-    "name": "PowerArms",
-    "author": "A Haunted Army",
-    "version": "1.0.3",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "AHauntedArmy/PowerArms",
-    "group": "Gameplay",
-    "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.3/PowerArms-v1.0.3.zip"
-  },
-  {
-    "name": "Practice Mod",
-    "author": "Graic",
-    "version": "1.1.2",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "Graicc/PracticeMod",
-    "group": "Gameplay",
-    "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.2/PracticeMod-v1.1.2.zip"
-  },
-  {
     "name": "Rising Lava",
     "author": "BoopetyDoopety",
     "version": "1.0.2",
@@ -166,29 +79,6 @@
     "download_url": "https://github.com/ChillGunner/RisingLava/releases/download/1.0.2/RisingLava.zip"
   },
   {
-    "name": "Slippery Ice",
-    "author": "fchb1239",
-    "version": "1.0.3",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "fchb1239/SlipperyIce",
-    "group": "Gameplay",
-    "download_url": "https://github.com/fchb1239/SlipperyIce/releases/download/1.0.3/SlipperyIce.zip"
-  },
-  {
-    "name": "Solid Monkeys",
-    "author": "A Haunted Army",
-    "version": "1.0.1",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "AHauntedArmy/SolidMonkeys",
-    "group": "Gameplay",
-    "download_url": "https://github.com/AHauntedArmy/SolidMonkeys/releases/download/1.0.1/SolidMonkeys-v1.0.1.zip"
-  },
-  {
     "name": "Space Monke",
     "author": "Bobbie",
     "version": "1.2.3",
@@ -198,14 +88,6 @@
     "git_path": "legoandmars/SpaceMonke",
     "group": "Gameplay",
     "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.3/SpaceMonke-1.2.3.zip"
-  },
-  {
-    "name": "Utilla",
-    "author": "Bobbie",
-    "version": "1.6.5",
-    "git_path": "legoandmars/Utilla",
-    "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.5/Utilla-1.6.5.zip"
   },
   {
     "name": "YURFitGorillaTag",
