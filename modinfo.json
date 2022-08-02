@@ -162,13 +162,13 @@
   {
     "name": "MonkeSwim",
     "author": "A Haunted Army",
-    "version": "1.0.7",
+    "version": "1.0.6",
     "dependencies": [
       "Monke Map Loader"
     ],
     "git_path": "AHauntedArmy/MonkeSwim",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.7/MonkeSwim-v1.0.7.zip"
+    "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/v1.0.6/MonkeSwim-v1.0.6.zip"
   },
   {
     "name": "Newtonsoft.JSON",
@@ -208,6 +208,17 @@
     "git_path": "Graicc/PracticeMod",
     "group": "Gameplay",
     "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.2/PracticeMod-v1.1.2.zip"
+  },
+  {
+    "name": "Rain Disabler",
+    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/Rain-Disabler-PC",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/BzzzThe18th/Rain-Disabler-PC/releases/download/1.0.0/RainToggle-v1.0.0.zip"
   },
   {
     "name": "Rising Lava",
@@ -254,6 +265,14 @@
     "git_path": "legoandmars/SpaceMonke",
     "group": "Gameplay",
     "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.3/SpaceMonke-1.2.3.zip"
+  },
+  {
+    "name": "TMPLoader",
+    "author": "A Haunted Army",
+    "version": "1.0.1",
+    "git_path": "AHauntedArmy/TMPLoader",
+    "group": "Libraries",
+    "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.1/TMPLoader-v1.0.1.zip"
   },
   {
     "name": "Utilla",
