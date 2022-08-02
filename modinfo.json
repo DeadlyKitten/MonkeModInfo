@@ -113,6 +113,17 @@
     "download_url": "https://github.com/AHauntedArmy/HauntedModMenu/releases/download/1.0.0/HauntedModMenu-v1.0.0.zip"
   },
   {
+    "name": "Iron Monke",
+    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "version": "1.0.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/IronMonkePC",
+    "group": "Gameplay",
+    "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.1/IronMonke-v1.0.1.zip"
+  },
+  {
     "name": "LIV",
     "author": "Raicuparta",
     "version": "1.5.0",
@@ -136,6 +147,18 @@
     "download_url": "https://github.com/BzzzThe18th/Marry-Poppins-PC/releases/download/1.0.1/MarryPoppins-v1.0.1.zip"
   },
   {
+    "name": "Monke Bazooka",
+    "author": "Waulta",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "Waulta/MonkeBazooka",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Waulta/MonkeBazooka/releases/download/1.0.0/MonkeBazooka.zip"
+  },
+  {
     "name": "Monke Map Loader",
     "author": "Vadix",
     "version": "1.2.1",
@@ -147,6 +170,17 @@
     "git_path": "Vadix88/MonkeMapLoader",
     "group": "Gameplay",
     "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.1/MonkeMapHub-1.2.1.zip"
+  },
+  {
+    "name": "MonkeSwim",
+    "author": "A Haunted Army",
+    "version": "1.0.6",
+    "dependencies": [
+      "Monke Map Loader"
+    ],
+    "git_path": "AHauntedArmy/MonkeSwim",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/v1.0.6/MonkeSwim-v1.0.6.zip"
   },
   {
     "name": "Newtonsoft.JSON",
@@ -243,6 +277,22 @@
     "git_path": "legoandmars/SpaceMonke",
     "group": "Gameplay",
     "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.3/SpaceMonke-1.2.3.zip"
+  },
+  {
+    "name": "TMPLoader",
+    "author": "A Haunted Army",
+    "version": "1.0.0",
+    "git_path": "AHauntedArmy/TMPLoader",
+    "group": "Libraries",
+    "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/v1.0.0/TMPLoader-v1.0.0.zip"
+  },
+  {
+    "name": "Utilla",
+    "author": "Bobbie",
+    "version": "1.6.5",
+    "git_path": "legoandmars/Utilla",
+    "group": "Libraries",
+    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.5/Utilla-1.6.5.zip"
   },
   {
     "name": "YURFitGorillaTag",
