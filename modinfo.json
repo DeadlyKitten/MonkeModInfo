@@ -59,6 +59,17 @@
     "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.5.1/ComputerInterface.zip"
   },
   {
+    "name": "Dash Monke",
+    "author": "Frogrilla",
+    "version": "1.0.2",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "Frogrilla/DashMonke",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Frogrilla/DashMonke/releases/download/1.0.2/DashMonke-v1.0.2.zip"
+  },
+  {
     "name": "Extenject",
     "author": "svermeulen",
     "version": "1.0.1",
@@ -91,29 +102,6 @@
     "download_url": "https://github.com/BzzzThe18th/Grav-Monke-PC/releases/download/1.0.0/GravMonke-v1.0.0.zip"
   },
   {
-    "name": "GripMonke",
-    "author": "Lillie",
-    "version": "2.1.1",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "WowItsKaylie/GripMonke",
-    "group": "Gameplay",
-    "download_url": "https://github.com/WowItsKaylie/GripMonke/releases/download/2.1.1/GripMonke-v2.1.1.zip"
-  },
-  {
-    "name": "Haunted Mod Menu",
-    "author": "A Haunted Army",
-    "version": "1.0.0",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "AHauntedArmy/HauntedModMenu",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/HauntedModMenu/releases/download/1.0.0/HauntedModMenu-v1.0.0.zip"
-  },
-  {
     "name": "Iron Monke",
     "author": "Buzz Bzzz bzz BZZZ The 18th",
     "version": "1.0.1",
@@ -137,16 +125,15 @@
     "download_url": "https://github.com/LIV/GorillaTagLIV/releases/download/v1.5.0/GorillaTagLIV.zip"
   },
   {
-    "name": "Monke Bazooka",
-    "author": "Waulta",
-    "version": "1.0.0",
+    "name": "Marry Poppins",
+    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "version": "1.0.1",
     "dependencies": [
-      "Utilla",
-      "Computer Interface"
+      "Utilla"
     ],
-    "git_path": "Waulta/MonkeBazooka",
+    "git_path": "BzzzThe18th/Marry-Poppins-PC",
     "group": "Gameplay",
-    "download_url": "https://github.com/Waulta/MonkeBazooka/releases/download/1.0.0/MonkeBazooka.zip"
+    "download_url": "https://github.com/BzzzThe18th/Marry-Poppins-PC/releases/download/1.0.1/MarryPoppins-v1.0.1.zip"
   },
   {
     "name": "Monke Map Loader",
@@ -187,6 +174,17 @@
     "git_path": "RusJJ/NoAmbient",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
+  },
+  {
+    "name": "PowerArms",
+    "author": "A Haunted Army",
+    "version": "1.0.3",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "AHauntedArmy/PowerArms",
+    "group": "Gameplay",
+    "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.3/PowerArms-v1.0.3.zip"
   },
   {
     "name": "Practice Mod",
@@ -258,23 +256,12 @@
     "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.3/SpaceMonke-1.2.3.zip"
   },
   {
-    "name": "Super Monke",
-    "author": "fchb1239",
-    "version": "1.0.0",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "fchb1239/SuperMonke",
-    "group": "Gameplay",
-    "download_url": "https://github.com/fchb1239/SuperMonke/releases/download/1.0.0/SuperMonke.zip"
-  },
-  {
     "name": "TMPLoader",
     "author": "A Haunted Army",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "git_path": "AHauntedArmy/TMPLoader",
     "group": "Libraries",
-    "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.1/TMPLoader-v1.0.1.zip"
+    "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/v1.0.0/TMPLoader-v1.0.0.zip"
   },
   {
     "name": "Utilla",
