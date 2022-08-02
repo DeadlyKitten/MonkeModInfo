@@ -1,19 +1,23 @@
 [
   {
+    "name": "AirJump",
+    "author": "fchb1239",
+    "version": "1.0.2",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "fchb1239/AirJump",
+    "group": "Gameplay",
+    "download_url": "https://github.com/fchb1239/AirJump/releases/download/1.0.2/AirJump.zip"
+  },
+  {
     "name": "BananaHook",
     "author": "[-=KILL MAN=-] aka RusJJ",
     "version": "1.3.1",
     "git_path": "Graicc/BananaHook",
     "group": "Libraries",
     "download_url": "https://github.com/Graicc/BananaHook/releases/download/1.3.1/BananaHook.zip"
-  },
-  {
-    "name": "BepInEx",
-    "author": "BepInEx Team",
-    "version": "5.4.21",
-    "git_path": "BepInEx/BepInEx",
-    "group": "Core",
-    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x64_5.4.21.0.zip"
   },
   {
     "name": "Bepinject",
@@ -172,6 +176,17 @@
     "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.1/MonkeMapHub-1.2.1.zip"
   },
   {
+    "name": "MonkeSwim",
+    "author": "A Haunted Army",
+    "version": "1.0.7",
+    "dependencies": [
+      "Monke Map Loader"
+    ],
+    "git_path": "AHauntedArmy/MonkeSwim",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.7/MonkeSwim-v1.0.7.zip"
+  },
+  {
     "name": "Newtonsoft.JSON",
     "author": "James Newton-King",
     "version": "12.0.3",
@@ -186,6 +201,17 @@
     "git_path": "RusJJ/NoAmbient",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
+  },
+  {
+    "name": "PowerArms",
+    "author": "A Haunted Army",
+    "version": "1.0.3",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "AHauntedArmy/PowerArms",
+    "group": "Gameplay",
+    "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.3/PowerArms-v1.0.3.zip"
   },
   {
     "name": "Practice Mod",
@@ -255,6 +281,25 @@
     "git_path": "legoandmars/SpaceMonke",
     "group": "Gameplay",
     "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.3/SpaceMonke-1.2.3.zip"
+  },
+  {
+    "name": "Super Monke",
+    "author": "fchb1239",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "fchb1239/SuperMonke",
+    "group": "Gameplay",
+    "download_url": "https://github.com/fchb1239/SuperMonke/releases/download/1.0.0/SuperMonke.zip"
+  },
+  {
+    "name": "TMPLoader",
+    "author": "A Haunted Army",
+    "version": "1.0.1",
+    "git_path": "AHauntedArmy/TMPLoader",
+    "group": "Libraries",
+    "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.1/TMPLoader-v1.0.1.zip"
   },
   {
     "name": "Utilla",
