@@ -91,6 +91,17 @@
     "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/v3.0.1/GorillaCosmetics-3.0.1.zip"
   },
   {
+    "name": "Grav Monke",
+    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/Grav-Monke-PC",
+    "group": "Gameplay",
+    "download_url": "https://github.com/BzzzThe18th/Grav-Monke-PC/releases/download/1.0.0/GravMonke-v1.0.0.zip"
+  },
+  {
     "name": "GripMonke",
     "author": "Lillie",
     "version": "2.1.1",
