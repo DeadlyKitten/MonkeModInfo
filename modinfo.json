@@ -40,6 +40,14 @@
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
   },
   {
+    "name": "BrokenController",
+    "author": "A Haunted Army",
+    "version": "1.1.0",
+    "git_path": "AHauntedArmy/BrokenController",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.1.0/BrokenController-v1.1.0.zip"
+  },
+  {
     "name": "Computer Interface",
     "author": "Toni Macaroni",
     "version": "1.5.2",
@@ -117,6 +125,17 @@
     "download_url": "https://github.com/AHauntedArmy/HauntedModMenu/releases/download/1.0.0/HauntedModMenu-v1.0.0.zip"
   },
   {
+    "name": "Iron Monke",
+    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "version": "1.0.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/IronMonkePC",
+    "group": "Gameplay",
+    "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.1/IronMonke-v1.0.1.zip"
+  },
+  {
     "name": "LIV",
     "author": "Raicuparta",
     "version": "1.5.0",
@@ -138,6 +157,18 @@
     "git_path": "BzzzThe18th/Marry-Poppins-PC",
     "group": "Gameplay",
     "download_url": "https://github.com/BzzzThe18th/Marry-Poppins-PC/releases/download/1.0.1/MarryPoppins-v1.0.1.zip"
+  },
+  {
+    "name": "Monke Bazooka",
+    "author": "Waulta",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "Waulta/MonkeBazooka",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Waulta/MonkeBazooka/releases/download/1.0.0/MonkeBazooka.zip"
   },
   {
     "name": "Monke Map Loader",
@@ -277,5 +308,24 @@
     "git_path": "AHauntedArmy/TMPLoader",
     "group": "Libraries",
     "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.1/TMPLoader-v1.0.1.zip"
+  },
+  {
+    "name": "Utilla",
+    "author": "Bobbie",
+    "version": "1.6.5",
+    "git_path": "legoandmars/Utilla",
+    "group": "Libraries",
+    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.5/Utilla-1.6.5.zip"
+  },
+  {
+    "name": "YURFitGorillaTag",
+    "author": "A Haunted Army & fchb1239",
+    "version": "1.0.3",
+    "dependencies": [
+      "TMPLoader"
+    ],
+    "git_path": "AHauntedArmy/YURFitGorillaTag",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/YURFitGorillaTag/releases/download/1.0.3/YURFitGorillaTag-v1.0.3.zip"
   }
 ]
