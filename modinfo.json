@@ -114,6 +114,17 @@
     "download_url": "https://github.com/WowItsKaylie/GripMonke/releases/download/2.1.1/GripMonke-v2.1.1.zip"
   },
   {
+    "name": "Haunted Mod Menu",
+    "author": "A Haunted Army",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "AHauntedArmy/HauntedModMenu",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/HauntedModMenu/releases/download/1.0.0/HauntedModMenu-v1.0.0.zip"
+  },
+  {
     "name": "Iron Monke",
     "author": "Buzz Bzzz bzz BZZZ The 18th",
     "version": "1.0.1",
@@ -213,14 +224,14 @@
   {
     "name": "Practice Mod",
     "author": "Graic",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "dependencies": [
       "Utilla",
       "Computer Interface"
     ],
     "git_path": "Graicc/PracticeMod",
     "group": "Gameplay",
-    "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.1/PracticeMod-v1.1.1.zip"
+    "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.2/PracticeMod-v1.1.2.zip"
   },
   {
     "name": "Rain Disabler",
