@@ -1,5 +1,17 @@
 [
   {
+    "name": "AirJump",
+    "author": "fchb1239",
+    "version": "1.0.2",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "fchb1239/AirJump",
+    "group": "Gameplay",
+    "download_url": "https://github.com/fchb1239/AirJump/releases/download/1.0.2/AirJump.zip"
+  },
+  {
     "name": "BananaHook",
     "author": "[-=KILL MAN=-] aka RusJJ",
     "version": "1.3.1",
@@ -47,6 +59,26 @@
     "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.5.2/ComputerInterface.zip"
   },
   {
+    "name": "Dash Monke",
+    "author": "Frogrilla",
+    "version": "1.0.2",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "Frogrilla/DashMonke",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Frogrilla/DashMonke/releases/download/1.0.2/DashMonke-v1.0.2.zip"
+  },
+  {
+    "name": "Extenject",
+    "author": "svermeulen",
+    "version": "1.0.1",
+    "install_location": "BepInEx/plugins",
+    "git_path": "Auros/Bepinject",
+    "group": "Libraries",
+    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
+  },
+  {
     "name": "Gorilla Cosmetics",
     "author": "Bobbie & Graic",
     "version": "3.0.2",
@@ -57,6 +89,29 @@
     "git_path": "legoandmars/GorillaCosmetics",
     "group": "Cosmetic",
     "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/3.0.2/GorillaCosmetics-3.0.2.zip"
+  },
+  {
+    "name": "Grav Monke",
+    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/Grav-Monke-PC",
+    "group": "Gameplay",
+    "download_url": "https://github.com/BzzzThe18th/Grav-Monke-PC/releases/download/1.0.0/GravMonke-v1.0.0.zip"
+  },
+  {
+    "name": "GripMonke",
+    "author": "Lillie",
+    "version": "2.1.1",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "WowItsKaylie/GripMonke",
+    "group": "Gameplay",
+    "download_url": "https://github.com/WowItsKaylie/GripMonke/releases/download/2.1.1/GripMonke-v2.1.1.zip"
   },
   {
     "name": "Haunted Mod Menu",
@@ -127,6 +182,17 @@
     "git_path": "Vadix88/MonkeMapLoader",
     "group": "Gameplay",
     "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.1/MonkeMapHub-1.2.1.zip"
+  },
+  {
+    "name": "MonkeSwim",
+    "author": "A Haunted Army",
+    "version": "1.0.7",
+    "dependencies": [
+      "Monke Map Loader"
+    ],
+    "git_path": "AHauntedArmy/MonkeSwim",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.7/MonkeSwim-v1.0.7.zip"
   },
   {
     "name": "Newtonsoft.JSON",
