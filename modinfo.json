@@ -301,10 +301,10 @@
   {
     "name": "Utilla",
     "author": "Bobbie",
-    "version": "1.6.5",
+    "version": "1.6.6",
     "git_path": "legoandmars/Utilla",
     "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.5/Utilla-1.6.5.zip"
+    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.6/Utilla.zip"
   },
   {
     "name": "YURFitGorillaTag",
