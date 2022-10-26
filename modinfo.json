@@ -59,6 +59,17 @@
     "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.5.2/ComputerInterface.zip"
   },
   {
+    "name": "Dash Monke",
+    "author": "Frogrilla",
+    "version": "1.0.2",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "Frogrilla/DashMonke",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Frogrilla/DashMonke/releases/download/1.0.2/DashMonke-v1.0.2.zip"
+  },
+  {
     "name": "Extenject",
     "author": "svermeulen",
     "version": "1.0.1",
