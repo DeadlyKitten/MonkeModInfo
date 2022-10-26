@@ -269,17 +269,6 @@
     "download_url": "https://github.com/AHauntedArmy/SolidMonkeys/releases/download/1.0.1/SolidMonkeys-v1.0.1.zip"
   },
   {
-    "name": "Space Monke",
-    "author": "Bobbie",
-    "version": "1.2.3",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "legoandmars/SpaceMonke",
-    "group": "Gameplay",
-    "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.3/SpaceMonke-1.2.3.zip"
-  },
-  {
     "name": "Super Monke",
     "author": "fchb1239",
     "version": "1.0.0",
