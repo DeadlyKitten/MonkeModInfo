@@ -309,12 +309,12 @@
   {
     "name": "YURFitGorillaTag",
     "author": "A Haunted Army & fchb1239",
-    "version": "1.0.4",
+    "version": "1.0.3",
     "dependencies": [
       "TMPLoader"
     ],
     "git_path": "AHauntedArmy/YURFitGorillaTag",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/YURFitGorillaTag/releases/download/1.0.4/YurFitGorillaTag-v1.0.4.zip"
+    "download_url": "https://github.com/AHauntedArmy/YURFitGorillaTag/releases/download/1.0.3/YURFitGorillaTag-v1.0.3.zip"
   }
 ]
