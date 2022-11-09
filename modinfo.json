@@ -161,14 +161,14 @@
   {
     "name": "Monke Bazooka",
     "author": "Waulta",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dependencies": [
       "Utilla",
       "Computer Interface"
     ],
     "git_path": "Waulta/MonkeBazooka",
     "group": "Gameplay",
-    "download_url": "https://github.com/Waulta/MonkeBazooka/releases/download/1.0.0/MonkeBazooka.zip"
+    "download_url": "https://github.com/Waulta/MonkeBazooka/releases/download/1.0.1/MonkeBazooka.zip"
   },
   {
     "name": "Monke Map Loader",
