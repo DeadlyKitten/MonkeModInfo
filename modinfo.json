@@ -136,18 +136,6 @@
     "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.1/IronMonke-v1.0.1.zip"
   },
   {
-    "name": "LIV",
-    "author": "Raicuparta",
-    "version": "1.5.0",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "LIV/GorillaTagLIV",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/LIV/GorillaTagLIV/releases/download/v1.5.0/GorillaTagLIV.zip"
-  },
-  {
     "name": "Marry Poppins",
     "author": "Buzz Bzzz bzz BZZZ The 18th",
     "version": "1.0.1",
@@ -193,14 +181,6 @@
     "git_path": "AHauntedArmy/MonkeSwim",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.7/MonkeSwim-v1.0.7.zip"
-  },
-  {
-    "name": "Newtonsoft.JSON",
-    "author": "James Newton-King",
-    "version": "12.0.3",
-    "git_path": "legoandmars/Newtonsoft.Json",
-    "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
   },
   {
     "name": "NoAmbient",
