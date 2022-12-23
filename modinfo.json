@@ -50,13 +50,13 @@
   {
     "name": "Computer Interface",
     "author": "Toni Macaroni",
-    "version": "1.5.3",
+    "version": "1.5.4",
     "dependencies": [
       "Bepinject"
     ],
     "git_path": "ToniMacaroni/ComputerInterface",
     "group": "Libraries",
-    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.5.3/ComputerInterface.zip"
+    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.5.4/ComputerInterface.zip"
   },
   {
     "name": "Dash Monke",
@@ -312,10 +312,10 @@
   {
     "name": "Utilla",
     "author": "Bobbie",
-    "version": "1.6.6",
+    "version": "1.6.7",
     "git_path": "legoandmars/Utilla",
     "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.6/Utilla.zip"
+    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.7/Utilla.zip"
   },
   {
     "name": "YURFitGorillaTag",
