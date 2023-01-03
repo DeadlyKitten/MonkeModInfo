@@ -203,14 +203,6 @@
     "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
   },
   {
-    "name": "NoAmbient",
-    "author": "[-=KILL MAN=-] aka RusJJ",
-    "version": "1.1.0",
-    "git_path": "RusJJ/NoAmbient",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
-  },
-  {
     "name": "PowerArms",
     "author": "A Haunted Army",
     "version": "1.0.3",
@@ -243,18 +235,6 @@
     "git_path": "BzzzThe18th/Rain-Disabler-PC",
     "group": "Cosmetic",
     "download_url": "https://github.com/BzzzThe18th/Rain-Disabler-PC/releases/download/1.0.0/RainToggle-v1.0.0.zip"
-  },
-  {
-    "name": "Rising Lava",
-    "author": "BoopetyDoopety",
-    "version": "1.0.2",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "ChillGunner/RisingLava",
-    "group": "Gameplay",
-    "download_url": "https://github.com/ChillGunner/RisingLava/releases/download/1.0.2/RisingLava.zip"
   },
   {
     "name": "Slippery Ice",
