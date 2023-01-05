@@ -171,6 +171,19 @@
     "download_url": "https://github.com/Waulta/MonkeBazooka/releases/download/1.0.1/MonkeBazooka.zip"
   },
   {
+    "name": "Monke Map Loader",
+    "author": "Vadix",
+    "version": "1.2.1",
+    "dependencies": [
+      "Newtonsoft.JSON",
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "Vadix88/MonkeMapLoader",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.1/MonkeMapLoader-1.2.1.zip"
+  },
+  {
     "name": "MonkeSwim",
     "author": "A Haunted Army",
     "version": "1.0.7",
