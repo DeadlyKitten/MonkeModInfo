@@ -12,6 +12,14 @@
     "download_url": "https://github.com/fchb1239/AirJump/releases/download/1.0.2/AirJump.zip"
   },
   {
+    "name": "BananaHook",
+    "author": "[-=KILL MAN=-] aka RusJJ",
+    "version": "1.3.1",
+    "git_path": "Graicc/BananaHook",
+    "group": "Libraries",
+    "download_url": "https://github.com/Graicc/BananaHook/releases/download/1.3.1/BananaHook.zip"
+  },
+  {
     "name": "BepInEx",
     "author": "BepInEx Team",
     "version": "5.4.21",
@@ -20,12 +28,35 @@
     "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x64_5.4.21.0.zip"
   },
   {
+    "name": "Bepinject",
+    "author": "Auros",
+    "version": "1.0.1",
+    "dependencies": [
+      "Extenject"
+    ],
+    "install_location": "BepInEx/plugins",
+    "git_path": "Auros/Bepinject",
+    "group": "Libraries",
+    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
+  },
+  {
     "name": "BrokenController",
     "author": "A Haunted Army",
     "version": "1.1.0",
     "git_path": "AHauntedArmy/BrokenController",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.1.0/BrokenController-v1.1.0.zip"
+  },
+  {
+    "name": "Computer Interface",
+    "author": "Toni Macaroni",
+    "version": "1.5.4",
+    "dependencies": [
+      "Bepinject"
+    ],
+    "git_path": "ToniMacaroni/ComputerInterface",
+    "group": "Libraries",
+    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.5.4/ComputerInterface.zip"
   },
   {
     "name": "Dash Monke",
@@ -37,6 +68,15 @@
     "git_path": "Frogrilla/DashMonke",
     "group": "Gameplay",
     "download_url": "https://github.com/Frogrilla/DashMonke/releases/download/1.0.2/DashMonke-v1.0.2.zip"
+  },
+  {
+    "name": "Extenject",
+    "author": "svermeulen",
+    "version": "1.0.1",
+    "install_location": "BepInEx/plugins",
+    "git_path": "Auros/Bepinject",
+    "group": "Libraries",
+    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
   },
   {
     "name": "Gorilla Cosmetics",
@@ -155,6 +195,14 @@
     "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.7/MonkeSwim-v1.0.7.zip"
   },
   {
+    "name": "Newtonsoft.JSON",
+    "author": "James Newton-King",
+    "version": "12.0.3",
+    "git_path": "legoandmars/Newtonsoft.Json",
+    "group": "Libraries",
+    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
+  },
+  {
     "name": "NoAmbient",
     "author": "[-=KILL MAN=-] aka RusJJ",
     "version": "1.1.0",
@@ -252,6 +300,22 @@
     "git_path": "fchb1239/SuperMonke",
     "group": "Gameplay",
     "download_url": "https://github.com/fchb1239/SuperMonke/releases/download/1.0.0/SuperMonke.zip"
+  },
+  {
+    "name": "TMPLoader",
+    "author": "A Haunted Army",
+    "version": "1.0.1",
+    "git_path": "AHauntedArmy/TMPLoader",
+    "group": "Libraries",
+    "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.1/TMPLoader-v1.0.1.zip"
+  },
+  {
+    "name": "Utilla",
+    "author": "Bobbie",
+    "version": "1.6.7",
+    "git_path": "legoandmars/Utilla",
+    "group": "Libraries",
+    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.7/Utilla.zip"
   },
   {
     "name": "YURFitGorillaTag",
