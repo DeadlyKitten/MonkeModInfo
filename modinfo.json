@@ -257,18 +257,6 @@
     "download_url": "https://github.com/ChillGunner/RisingLava/releases/download/1.0.2/RisingLava.zip"
   },
   {
-    "name": "Slippery Ice",
-    "author": "fchb1239",
-    "version": "1.0.3",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "fchb1239/SlipperyIce",
-    "group": "Gameplay",
-    "download_url": "https://github.com/fchb1239/SlipperyIce/releases/download/1.0.3/SlipperyIce.zip"
-  },
-  {
     "name": "Solid Monkeys",
     "author": "A Haunted Army",
     "version": "1.0.1",
