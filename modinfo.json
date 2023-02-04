@@ -22,10 +22,10 @@
   {
     "name": "BepInEx",
     "author": "BepInEx Team",
-    "version": "5.4.20",
+    "version": "5.4.21",
     "git_path": "BepInEx/BepInEx",
     "group": "Core",
-    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.20/BepInEx_x64_5.4.20.0.zip"
+    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x64_5.4.21.0.zip"
   },
   {
     "name": "Bepinject",
@@ -173,7 +173,7 @@
   {
     "name": "Monke Map Loader",
     "author": "Vadix",
-    "version": "1.1.5",
+    "version": "1.2.1",
     "dependencies": [
       "Newtonsoft.JSON",
       "Utilla",
@@ -181,7 +181,7 @@
     ],
     "git_path": "Vadix88/MonkeMapLoader",
     "group": "Gameplay",
-    "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/v1.1.5/MonkeMapLoader-1.1.5.zip"
+    "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.1/MonkeMapLoader-1.2.1.zip"
   },
   {
     "name": "MonkeSwim",
