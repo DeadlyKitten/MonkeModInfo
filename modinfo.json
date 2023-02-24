@@ -28,18 +28,6 @@
     "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x64_5.4.21.0.zip"
   },
   {
-    "name": "Bepinject",
-    "author": "Auros",
-    "version": "1.0.1",
-    "dependencies": [
-      "Extenject"
-    ],
-    "install_location": "BepInEx/plugins",
-    "git_path": "Auros/Bepinject",
-    "group": "Libraries",
-    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
-  },
-  {
     "name": "BrokenController",
     "author": "A Haunted Army",
     "version": "1.1.0",
@@ -57,6 +45,17 @@
     "git_path": "ToniMacaroni/ComputerInterface",
     "group": "Libraries",
     "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.5.4/ComputerInterface.zip"
+  },
+  {
+    "name": "Dash Monke",
+    "author": "Frogrilla",
+    "version": "1.0.2",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "Frogrilla/DashMonke",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Frogrilla/DashMonke/releases/download/1.0.2/DashMonke-v1.0.2.zip"
   },
   {
     "name": "Extenject",
