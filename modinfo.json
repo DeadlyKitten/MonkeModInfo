@@ -48,17 +48,6 @@
     "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.1.0/BrokenController-v1.1.0.zip"
   },
   {
-    "name": "Computer Interface",
-    "author": "Toni Macaroni",
-    "version": "1.5.4",
-    "dependencies": [
-      "Bepinject"
-    ],
-    "git_path": "ToniMacaroni/ComputerInterface",
-    "group": "Libraries",
-    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.5.4/ComputerInterface.zip"
-  },
-  {
     "name": "Dash Monke",
     "author": "Frogrilla",
     "version": "1.0.2",
@@ -201,14 +190,6 @@
     "git_path": "legoandmars/Newtonsoft.Json",
     "group": "Libraries",
     "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
-  },
-  {
-    "name": "NoAmbient",
-    "author": "[-=KILL MAN=-] aka RusJJ",
-    "version": "1.1.0",
-    "git_path": "RusJJ/NoAmbient",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
   },
   {
     "name": "PowerArms",
