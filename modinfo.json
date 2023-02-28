@@ -48,6 +48,17 @@
     "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.1.0/BrokenController-v1.1.0.zip"
   },
   {
+    "name": "Computer Interface",
+    "author": "Toni Macaroni",
+    "version": "1.5.4",
+    "dependencies": [
+      "Bepinject"
+    ],
+    "git_path": "ToniMacaroni/ComputerInterface",
+    "group": "Libraries",
+    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.5.4/ComputerInterface.zip"
+  },
+  {
     "name": "Dash Monke",
     "author": "Frogrilla",
     "version": "1.0.2",
