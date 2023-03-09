@@ -310,14 +310,6 @@
     "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.1/TMPLoader-v1.0.1.zip"
   },
   {
-    "name": "Utilla",
-    "author": "Bobbie",
-    "version": "1.6.7",
-    "git_path": "legoandmars/Utilla",
-    "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.7/Utilla.zip"
-  },
-  {
     "name": "YURFitGorillaTag",
     "author": "A Haunted Army & fchb1239",
     "version": "1.0.4",
