@@ -70,15 +70,6 @@
     "download_url": "https://github.com/Frogrilla/DashMonke/releases/download/1.0.2/DashMonke-v1.0.2.zip"
   },
   {
-    "name": "Extenject",
-    "author": "svermeulen",
-    "version": "1.0.1",
-    "install_location": "BepInEx/plugins",
-    "git_path": "Auros/Bepinject",
-    "group": "Libraries",
-    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
-  },
-  {
     "name": "Gorilla Cosmetics",
     "author": "Bobbie & Graic",
     "version": "3.0.2",
