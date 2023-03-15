@@ -102,6 +102,18 @@
     "download_url": "https://github.com/BzzzThe18th/Grav-Monke-PC/releases/download/1.0.0/GravMonke-v1.0.0.zip"
   },
   {
+    "name": "GripMonke",
+    "author": "Lillie",
+    "version": "2.1.1",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "WowItsKaylie/GripMonke",
+    "group": "Gameplay",
+    "download_url": "https://github.com/WowItsKaylie/GripMonke/releases/download/2.1.1/GripMonke-v2.1.1.zip"
+  },
+  {
     "name": "Haunted Mod Menu",
     "author": "A Haunted Army",
     "version": "1.0.1",
