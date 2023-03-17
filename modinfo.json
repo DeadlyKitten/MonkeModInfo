@@ -150,13 +150,13 @@
   {
     "name": "Marry Poppins",
     "author": "Buzz Bzzz bzz BZZZ The 18th",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dependencies": [
       "Utilla"
     ],
     "git_path": "BzzzThe18th/Marry-Poppins-PC",
     "group": "Gameplay",
-    "download_url": "https://github.com/BzzzThe18th/Marry-Poppins-PC/releases/download/1.0.0/MarryPoppins-v1.0.0.zip"
+    "download_url": "https://github.com/BzzzThe18th/Marry-Poppins-PC/releases/download/1.0.1/MarryPoppins-v1.0.1.zip"
   },
   {
     "name": "Monke Bazooka",
