@@ -302,6 +302,14 @@
     "download_url": "https://github.com/fchb1239/SuperMonke/releases/download/1.0.0/SuperMonke.zip"
   },
   {
+    "name": "TMPLoader",
+    "author": "A Haunted Army",
+    "version": "1.0.1",
+    "git_path": "AHauntedArmy/TMPLoader",
+    "group": "Libraries",
+    "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.1/TMPLoader-v1.0.1.zip"
+  },
+  {
     "name": "Utilla",
     "author": "Bobbie",
     "version": "1.6.7",
