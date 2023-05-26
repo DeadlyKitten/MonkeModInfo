@@ -22,10 +22,10 @@
   {
     "name": "BepInEx",
     "author": "BepInEx Team",
-    "version": "5.4.21",
+    "version": "5.4.20",
     "git_path": "BepInEx/BepInEx",
     "group": "Core",
-    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x64_5.4.21.0.zip"
+    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.20/BepInEx_x64_5.4.20.0.zip"
   },
   {
     "name": "Bepinject",
