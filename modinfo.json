@@ -50,13 +50,13 @@
   {
     "name": "Computer Interface",
     "author": "Toni Macaroni",
-    "version": "1.5.4",
+    "version": "1.6.0",
     "dependencies": [
       "Bepinject"
     ],
     "git_path": "ToniMacaroni/ComputerInterface",
     "group": "Libraries",
-    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.5.4/ComputerInterface.zip"
+    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.6.0/ComputerInterface.zip"
   },
   {
     "name": "Dash Monke",
