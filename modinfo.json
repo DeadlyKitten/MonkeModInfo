@@ -199,17 +199,6 @@
     "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
   },
   {
-    "name": "PowerArms",
-    "author": "A Haunted Army",
-    "version": "1.0.3",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "AHauntedArmy/PowerArms",
-    "group": "Gameplay",
-    "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.3/PowerArms-v1.0.3.zip"
-  },
-  {
     "name": "Practice Mod",
     "author": "Graic",
     "version": "1.1.2",
