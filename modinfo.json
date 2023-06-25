@@ -50,13 +50,13 @@
   {
     "name": "Computer Interface",
     "author": "Toni Macaroni",
-    "version": "1.6.0",
+    "version": "1.6.1",
     "dependencies": [
       "Bepinject"
     ],
     "git_path": "ToniMacaroni/ComputerInterface",
     "group": "Libraries",
-    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.6.0/ComputerInterface.zip"
+    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.6.1/ComputerInterface.zip"
   },
   {
     "name": "Dash Monke",
@@ -161,7 +161,7 @@
   {
     "name": "Monke Map Loader",
     "author": "Vadix",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "dependencies": [
       "Newtonsoft.JSON",
       "Utilla",
@@ -169,7 +169,7 @@
     ],
     "git_path": "Vadix88/MonkeMapLoader",
     "group": "Gameplay",
-    "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.1/MonkeMapLoader-1.2.1.zip"
+    "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.2/MonkeMapLoader.zip"
   },
   {
     "name": "MonkeSwim",
