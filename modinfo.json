@@ -235,14 +235,14 @@
   {
     "name": "Rising Lava",
     "author": "BoopetyDoopety",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "dependencies": [
       "Utilla",
       "Computer Interface"
     ],
     "git_path": "ChillGunner/RisingLava",
     "group": "Gameplay",
-    "download_url": "https://github.com/ChillGunner/RisingLava/releases/download/1.0.1/RisingLava.zip"
+    "download_url": "https://github.com/ChillGunner/RisingLava/releases/download/1.0.2/RisingLava.zip"
   },
   {
     "name": "Slippery Ice",
@@ -270,13 +270,13 @@
   {
     "name": "Space Monke",
     "author": "Bobbie",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "dependencies": [
       "Utilla"
     ],
     "git_path": "legoandmars/SpaceMonke",
     "group": "Gameplay",
-    "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.2/SpaceMonke-1.2.2.zip"
+    "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.3/SpaceMonke-1.2.3.zip"
   },
   {
     "name": "Super Monke",
