@@ -222,6 +222,17 @@
     "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.2/PracticeMod-v1.1.2.zip"
   },
   {
+    "name": "Rain Disabler",
+    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "version": "1.0.0",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/Rain-Disabler-PC",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/BzzzThe18th/Rain-Disabler-PC/releases/download/1.0.0/RainToggle-v1.0.0.zip"
+  },
+  {
     "name": "Rising Lava",
     "author": "BoopetyDoopety",
     "version": "1.0.2",
