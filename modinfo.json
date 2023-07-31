@@ -104,13 +104,13 @@
   {
     "name": "Haunted Mod Menu",
     "author": "A Haunted Army",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dependencies": [
       "Utilla"
     ],
     "git_path": "AHauntedArmy/HauntedModMenu",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/HauntedModMenu/releases/download/1.0.0/HauntedModMenu-v1.0.0.zip"
+    "download_url": "https://github.com/AHauntedArmy/HauntedModMenu/releases/download/1.0.1/HauntedModMenu-v1.0.1.zip"
   },
   {
     "name": "Iron Monke",
