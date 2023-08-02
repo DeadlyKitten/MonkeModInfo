@@ -201,13 +201,13 @@
   {
     "name": "PowerArms",
     "author": "A Haunted Army",
-    "version": "1.0.3",
+    "version": "1.0.2",
     "dependencies": [
       "Utilla"
     ],
     "git_path": "AHauntedArmy/PowerArms",
     "group": "Gameplay",
-    "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.3/PowerArms-v1.0.3.zip"
+    "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.2/PowerArms-v1.0.2.zip"
   },
   {
     "name": "Practice Mod",
