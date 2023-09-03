@@ -48,6 +48,17 @@
     "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.1.0/BrokenController-v1.1.0.zip"
   },
   {
+    "name": "Computer Interface",
+    "author": "Toni Macaroni",
+    "version": "1.6.1",
+    "dependencies": [
+      "Bepinject"
+    ],
+    "git_path": "ToniMacaroni/ComputerInterface",
+    "group": "Libraries",
+    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.6.1/ComputerInterface.zip"
+  },
+  {
     "name": "Dash Monke",
     "author": "Frogrilla",
     "version": "1.0.2",
@@ -220,6 +231,18 @@
     "git_path": "BzzzThe18th/Rain-Disabler-PC",
     "group": "Cosmetic",
     "download_url": "https://github.com/BzzzThe18th/Rain-Disabler-PC/releases/download/1.0.0/RainToggle-v1.0.0.zip"
+  },
+  {
+    "name": "Rising Lava",
+    "author": "BoopetyDoopety",
+    "version": "1.0.2",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "ChillGunner/RisingLava",
+    "group": "Gameplay",
+    "download_url": "https://github.com/ChillGunner/RisingLava/releases/download/1.0.2/RisingLava.zip"
   },
   {
     "name": "Slippery Ice",
