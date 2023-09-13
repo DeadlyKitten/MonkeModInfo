@@ -115,13 +115,13 @@
   {
     "name": "Iron Monke",
     "author": "Buzz Bzzz bzz BZZZ The 18th",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "dependencies": [
       "Utilla"
     ],
     "git_path": "BzzzThe18th/IronMonkePC",
     "group": "Gameplay",
-    "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.1/IronMonke-v1.0.1.zip"
+    "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.2/IronMonke-v1.0.2.zip"
   },
   {
     "name": "LIV",
