@@ -67,17 +67,6 @@
     "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.2/MonkeMapLoader.zip"
   },
   {
-    "name": "MonkeSwim",
-    "author": "A Haunted Army",
-    "version": "1.0.7",
-    "dependencies": [
-      "Monke Map Loader"
-    ],
-    "git_path": "AHauntedArmy/MonkeSwim",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.7/MonkeSwim-v1.0.7.zip"
-  },
-  {
     "name": "TMPLoader",
     "author": "A Haunted Army",
     "version": "1.0.2",
