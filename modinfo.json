@@ -67,29 +67,6 @@
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
   },
   {
-    "name": "Gorilla Cosmetics",
-    "author": "Bobbie & Graic",
-    "version": "3.0.2",
-    "dependencies": [
-      "Utilla",
-      "Newtonsoft.JSON"
-    ],
-    "git_path": "legoandmars/GorillaCosmetics",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/3.0.2/GorillaCosmetics-3.0.2.zip"
-  },
-  {
-    "name": "Grav Monke",
-    "author": "Buzz Bzzz bzz BZZZ The 18th",
-    "version": "1.0.0",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "BzzzThe18th/Grav-Monke-PC",
-    "group": "Gameplay",
-    "download_url": "https://github.com/BzzzThe18th/Grav-Monke-PC/releases/download/1.0.0/GravMonke-v1.0.0.zip"
-  },
-  {
     "name": "Haunted Mod Menu",
     "author": "A Haunted Army",
     "version": "1.0.1",
@@ -110,18 +87,6 @@
     "git_path": "BzzzThe18th/IronMonkePC",
     "group": "Gameplay",
     "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.3/IronMonke-v1.0.3.zip"
-  },
-  {
-    "name": "LIV",
-    "author": "Raicuparta",
-    "version": "1.5.0",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "LIV/GorillaTagLIV",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/LIV/GorillaTagLIV/releases/download/v1.5.0/GorillaTagLIV.zip"
   },
   {
     "name": "Marry Poppins",
@@ -171,25 +136,6 @@
     "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.7/MonkeSwim-v1.0.7.zip"
   },
   {
-    "name": "NoAmbient",
-    "author": "[-=KILL MAN=-] aka RusJJ",
-    "version": "1.1.0",
-    "git_path": "RusJJ/NoAmbient",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
-  },
-  {
-    "name": "PowerArms",
-    "author": "A Haunted Army",
-    "version": "1.0.3",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "AHauntedArmy/PowerArms",
-    "group": "Gameplay",
-    "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.3/PowerArms-v1.0.3.zip"
-  },
-  {
     "name": "Practice Mod",
     "author": "Graic",
     "version": "1.1.2",
@@ -202,16 +148,16 @@
     "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.2/PracticeMod-v1.1.2.zip"
   },
   {
-    "name": "Rising Lava",
-    "author": "BoopetyDoopety",
-    "version": "1.0.2",
+    "name": "Slippery Ice",
+    "author": "fchb1239",
+    "version": "1.0.3",
     "dependencies": [
       "Utilla",
       "Computer Interface"
     ],
-    "git_path": "ChillGunner/RisingLava",
+    "git_path": "fchb1239/SlipperyIce",
     "group": "Gameplay",
-    "download_url": "https://github.com/ChillGunner/RisingLava/releases/download/1.0.2/RisingLava.zip"
+    "download_url": "https://github.com/fchb1239/SlipperyIce/releases/download/1.0.3/SlipperyIce.zip"
   },
   {
     "name": "Solid Monkeys",
@@ -223,17 +169,6 @@
     "git_path": "AHauntedArmy/SolidMonkeys",
     "group": "Gameplay",
     "download_url": "https://github.com/AHauntedArmy/SolidMonkeys/releases/download/1.0.1/SolidMonkeys-v1.0.1.zip"
-  },
-  {
-    "name": "Super Monke",
-    "author": "fchb1239",
-    "version": "1.0.0",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "fchb1239/SuperMonke",
-    "group": "Gameplay",
-    "download_url": "https://github.com/fchb1239/SuperMonke/releases/download/1.0.0/SuperMonke.zip"
   },
   {
     "name": "TMPLoader",
@@ -250,16 +185,5 @@
     "git_path": "legoandmars/Utilla",
     "group": "Libraries",
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.10/Utilla.zip"
-  },
-  {
-    "name": "YURFitGorillaTag",
-    "author": "A Haunted Army & fchb1239",
-    "version": "1.0.4",
-    "dependencies": [
-      "TMPLoader"
-    ],
-    "git_path": "AHauntedArmy/YURFitGorillaTag",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/YURFitGorillaTag/releases/download/1.0.4/YurFitGorillaTag-v1.0.4.zip"
   }
 ]
