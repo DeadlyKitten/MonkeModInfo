@@ -40,6 +40,14 @@
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
   },
   {
+    "name": "BrokenController",
+    "author": "A Haunted Army",
+    "version": "1.1.0",
+    "git_path": "AHauntedArmy/BrokenController",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.1.0/BrokenController-v1.1.0.zip"
+  },
+  {
     "name": "Computer Interface",
     "author": "Toni Macaroni",
     "version": "1.6.1",
@@ -49,6 +57,17 @@
     "git_path": "ToniMacaroni/ComputerInterface",
     "group": "Libraries",
     "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.6.1/ComputerInterface.zip"
+  },
+  {
+    "name": "Dash Monke",
+    "author": "Frogrilla",
+    "version": "1.0.2",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "Frogrilla/DashMonke",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Frogrilla/DashMonke/releases/download/1.0.2/DashMonke-v1.0.2.zip"
   },
   {
     "name": "Extenject",
@@ -83,6 +102,17 @@
     "download_url": "https://github.com/BzzzThe18th/Grav-Monke-PC/releases/download/1.0.0/GravMonke-v1.0.0.zip"
   },
   {
+    "name": "Haunted Mod Menu",
+    "author": "A Haunted Army",
+    "version": "1.0.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "AHauntedArmy/HauntedModMenu",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/HauntedModMenu/releases/download/1.0.1/HauntedModMenu-v1.0.1.zip"
+  },
+  {
     "name": "Iron Monke",
     "author": "Buzz Bzzz bzz BZZZ The 18th",
     "version": "1.0.3",
@@ -92,6 +122,18 @@
     "git_path": "BzzzThe18th/IronMonkePC",
     "group": "Gameplay",
     "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.3/IronMonke-v1.0.3.zip"
+  },
+  {
+    "name": "LIV",
+    "author": "Raicuparta",
+    "version": "1.5.0",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "LIV/GorillaTagLIV",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/LIV/GorillaTagLIV/releases/download/v1.5.0/GorillaTagLIV.zip"
   },
   {
     "name": "Marry Poppins",
@@ -139,14 +181,6 @@
     "git_path": "AHauntedArmy/MonkeSwim",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.7/MonkeSwim-v1.0.7.zip"
-  },
-  {
-    "name": "Newtonsoft.JSON",
-    "author": "James Newton-King",
-    "version": "12.0.3",
-    "git_path": "legoandmars/Newtonsoft.Json",
-    "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
   },
   {
     "name": "NoAmbient",
