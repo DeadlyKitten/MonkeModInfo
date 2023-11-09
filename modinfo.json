@@ -79,6 +79,18 @@
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
   },
   {
+    "name": "Gorilla Cosmetics",
+    "author": "Bobbie & Graic",
+    "version": "3.0.2",
+    "dependencies": [
+      "Utilla",
+      "Newtonsoft.JSON"
+    ],
+    "git_path": "legoandmars/GorillaCosmetics",
+    "group": "Cosmetic",
+    "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/3.0.2/GorillaCosmetics-3.0.2.zip"
+  },
+  {
     "name": "Grav Monke",
     "author": "Buzz Bzzz bzz BZZZ The 18th",
     "version": "1.0.0",
