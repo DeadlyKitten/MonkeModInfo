@@ -147,18 +147,6 @@
     "download_url": "https://github.com/BzzzThe18th/Marry-Poppins-PC/releases/download/1.0.1/MarryPoppins-v1.0.1.zip"
   },
   {
-    "name": "Monke Bazooka",
-    "author": "Waulta",
-    "version": "1.0.2",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "Waulta/MonkeBazooka",
-    "group": "Gameplay",
-    "download_url": "https://github.com/Waulta/MonkeBazooka/releases/download/1.0.2/MonkeBazooka.zip"
-  },
-  {
     "name": "Monke Map Loader",
     "author": "Vadix",
     "version": "1.2.2",
