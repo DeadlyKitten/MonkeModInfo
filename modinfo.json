@@ -191,6 +191,14 @@
     "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
   },
   {
+    "name": "NoAmbient",
+    "author": "[-=KILL MAN=-] aka RusJJ",
+    "version": "1.1.0",
+    "git_path": "RusJJ/NoAmbient",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
+  },
+  {
     "name": "PowerArms",
     "author": "A Haunted Army",
     "version": "1.0.3",
