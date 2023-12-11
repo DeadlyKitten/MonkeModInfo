@@ -193,10 +193,10 @@
   {
     "name": "NoAmbient",
     "author": "[-=KILL MAN=-] aka RusJJ",
-    "version": "1.1.0",
+    "version": "1.0.1",
     "git_path": "RusJJ/NoAmbient",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.1.0/NoAmbient.zip"
+    "download_url": "https://github.com/RusJJ/NoAmbient/releases/download/1.0.1/NoAmbient.zip"
   },
   {
     "name": "PowerArms",
@@ -236,14 +236,14 @@
   {
     "name": "Slippery Ice",
     "author": "fchb1239",
-    "version": "1.0.3",
+    "version": "1.0.2",
     "dependencies": [
       "Utilla",
       "Computer Interface"
     ],
     "git_path": "fchb1239/SlipperyIce",
     "group": "Gameplay",
-    "download_url": "https://github.com/fchb1239/SlipperyIce/releases/download/1.0.3/SlipperyIce.zip"
+    "download_url": "https://github.com/fchb1239/SlipperyIce/releases/download/1.0.2/SlipperyIce.zip"
   },
   {
     "name": "Solid Monkeys",
