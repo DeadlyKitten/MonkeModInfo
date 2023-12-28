@@ -2,14 +2,14 @@
   {
     "name": "AirJump",
     "author": "fchb1239",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "dependencies": [
       "Utilla",
       "Computer Interface"
     ],
     "git_path": "fchb1239/AirJump",
     "group": "Gameplay",
-    "download_url": "https://github.com/fchb1239/AirJump/releases/download/1.0.3/AirJump.zip"
+    "download_url": "https://github.com/fchb1239/AirJump/releases/download/1.0.4/AirJump.zip"
   },
   {
     "name": "BananaHook",
