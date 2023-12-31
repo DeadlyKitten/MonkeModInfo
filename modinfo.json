@@ -246,6 +246,17 @@
     "download_url": "https://github.com/fchb1239/SlipperyIce/releases/download/1.0.3/SlipperyIce.zip"
   },
   {
+    "name": "Solid Monkeys",
+    "author": "A Haunted Army",
+    "version": "1.0.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "AHauntedArmy/SolidMonkeys",
+    "group": "Gameplay",
+    "download_url": "https://github.com/AHauntedArmy/SolidMonkeys/releases/download/1.0.1/SolidMonkeys-v1.0.1.zip"
+  },
+  {
     "name": "Space Monke",
     "author": "Bobbie",
     "version": "1.2.3",
