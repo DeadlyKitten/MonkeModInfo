@@ -124,6 +124,18 @@
     "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.3/IronMonke-v1.0.3.zip"
   },
   {
+    "name": "LIV",
+    "author": "Raicuparta",
+    "version": "1.5.0",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "LIV/GorillaTagLIV",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/LIV/GorillaTagLIV/releases/download/v1.5.0/GorillaTagLIV.zip"
+  },
+  {
     "name": "Marry Poppins",
     "author": "Buzz Bzzz bzz BZZZ The 18th",
     "version": "1.0.1",
