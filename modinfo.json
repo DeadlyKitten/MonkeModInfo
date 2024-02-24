@@ -279,6 +279,22 @@
     "download_url": "https://github.com/fchb1239/SuperMonke/releases/download/1.0.0/SuperMonke.zip"
   },
   {
+    "name": "TMPLoader",
+    "author": "A Haunted Army",
+    "version": "1.0.2",
+    "git_path": "AHauntedArmy/TMPLoader",
+    "group": "Libraries",
+    "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.2/TMPLoader-v1.0.2.zip"
+  },
+  {
+    "name": "Utilla",
+    "author": "Bobbie",
+    "version": "1.6.12",
+    "git_path": "legoandmars/Utilla",
+    "group": "Libraries",
+    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.12/Utilla.zip"
+  },
+  {
     "name": "YURFitGorillaTag",
     "author": "A Haunted Army & fchb1239",
     "version": "1.0.4",
