@@ -48,17 +48,6 @@
     "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.1.0/BrokenController-v1.1.0.zip"
   },
   {
-    "name": "Computer Interface",
-    "author": "Toni Macaroni",
-    "version": "1.6.1",
-    "dependencies": [
-      "Bepinject"
-    ],
-    "git_path": "ToniMacaroni/ComputerInterface",
-    "group": "Libraries",
-    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.6.1/ComputerInterface.zip"
-  },
-  {
     "name": "Dash Monke",
     "author": "Frogrilla",
     "version": "1.0.2",
@@ -285,14 +274,6 @@
     "git_path": "AHauntedArmy/TMPLoader",
     "group": "Libraries",
     "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.2/TMPLoader-v1.0.2.zip"
-  },
-  {
-    "name": "Utilla",
-    "author": "Bobbie",
-    "version": "1.6.12",
-    "git_path": "legoandmars/Utilla",
-    "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.12/Utilla.zip"
   },
   {
     "name": "YURFitGorillaTag",
