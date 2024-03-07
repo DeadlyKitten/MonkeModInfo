@@ -222,6 +222,18 @@
     "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.2/PracticeMod-v1.1.2.zip"
   },
   {
+    "name": "Rising Lava",
+    "author": "BoopetyDoopety",
+    "version": "1.0.2",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "ChillGunner/RisingLava",
+    "group": "Gameplay",
+    "download_url": "https://github.com/ChillGunner/RisingLava/releases/download/1.0.2/RisingLava.zip"
+  },
+  {
     "name": "Slippery Ice",
     "author": "fchb1239",
     "version": "1.0.3",
