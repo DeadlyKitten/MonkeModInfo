@@ -210,18 +210,6 @@
     "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.3/PowerArms-v1.0.3.zip"
   },
   {
-    "name": "Practice Mod",
-    "author": "Graic",
-    "version": "1.1.2",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "Graicc/PracticeMod",
-    "group": "Gameplay",
-    "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.2/PracticeMod-v1.1.2.zip"
-  },
-  {
     "name": "Rising Lava",
     "author": "BoopetyDoopety",
     "version": "1.0.2",
