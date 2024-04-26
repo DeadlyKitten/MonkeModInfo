@@ -31,17 +31,6 @@
     "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.6.1/ComputerInterface.zip"
   },
   {
-    "name": "Haunted Mod Menu",
-    "author": "A Haunted Army",
-    "version": "1.0.1",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "AHauntedArmy/HauntedModMenu",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/HauntedModMenu/releases/download/1.0.1/HauntedModMenu-v1.0.1.zip"
-  },
-  {
     "name": "Iron Monke",
     "author": "Buzz Bzzz bzz BZZZ The 18th",
     "version": "1.0.3",
@@ -51,6 +40,17 @@
     "git_path": "BzzzThe18th/IronMonkePC",
     "group": "Gameplay",
     "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.3/IronMonke-v1.0.3.zip"
+  },
+  {
+    "name": "Marry Poppins",
+    "author": "Buzz Bzzz bzz BZZZ The 18th",
+    "version": "1.0.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "BzzzThe18th/Marry-Poppins-PC",
+    "group": "Gameplay",
+    "download_url": "https://github.com/BzzzThe18th/Marry-Poppins-PC/releases/download/1.0.1/MarryPoppins-v1.0.1.zip"
   },
   {
     "name": "Monke Bazooka",
@@ -78,38 +78,15 @@
     "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.2/MonkeMapLoader.zip"
   },
   {
-    "name": "PowerArms",
+    "name": "MonkeSwim",
     "author": "A Haunted Army",
-    "version": "1.0.3",
+    "version": "1.0.7",
     "dependencies": [
-      "Utilla"
+      "Monke Map Loader"
     ],
-    "git_path": "AHauntedArmy/PowerArms",
-    "group": "Gameplay",
-    "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.3/PowerArms-v1.0.3.zip"
-  },
-  {
-    "name": "Rising Lava",
-    "author": "BoopetyDoopety",
-    "version": "1.0.2",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "ChillGunner/RisingLava",
-    "group": "Gameplay",
-    "download_url": "https://github.com/ChillGunner/RisingLava/releases/download/1.0.2/RisingLava.zip"
-  },
-  {
-    "name": "Solid Monkeys",
-    "author": "A Haunted Army",
-    "version": "1.0.1",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "AHauntedArmy/SolidMonkeys",
-    "group": "Gameplay",
-    "download_url": "https://github.com/AHauntedArmy/SolidMonkeys/releases/download/1.0.1/SolidMonkeys-v1.0.1.zip"
+    "git_path": "AHauntedArmy/MonkeSwim",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.7/MonkeSwim-v1.0.7.zip"
   },
   {
     "name": "TMPLoader",
