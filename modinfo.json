@@ -31,24 +31,15 @@
     "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.6.1/ComputerInterface.zip"
   },
   {
-    "name": "Extenject",
-    "author": "svermeulen",
+    "name": "Haunted Mod Menu",
+    "author": "A Haunted Army",
     "version": "1.0.1",
-    "install_location": "BepInEx/plugins",
-    "git_path": "Auros/Bepinject",
-    "group": "Libraries",
-    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
-  },
-  {
-    "name": "Grav Monke",
-    "author": "Buzz Bzzz bzz BZZZ The 18th",
-    "version": "1.0.0",
     "dependencies": [
       "Utilla"
     ],
-    "git_path": "BzzzThe18th/Grav-Monke-PC",
-    "group": "Gameplay",
-    "download_url": "https://github.com/BzzzThe18th/Grav-Monke-PC/releases/download/1.0.0/GravMonke-v1.0.0.zip"
+    "git_path": "AHauntedArmy/HauntedModMenu",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/HauntedModMenu/releases/download/1.0.1/HauntedModMenu-v1.0.1.zip"
   },
   {
     "name": "Iron Monke",
@@ -96,6 +87,29 @@
     "git_path": "AHauntedArmy/PowerArms",
     "group": "Gameplay",
     "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.3/PowerArms-v1.0.3.zip"
+  },
+  {
+    "name": "Rising Lava",
+    "author": "BoopetyDoopety",
+    "version": "1.0.2",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "ChillGunner/RisingLava",
+    "group": "Gameplay",
+    "download_url": "https://github.com/ChillGunner/RisingLava/releases/download/1.0.2/RisingLava.zip"
+  },
+  {
+    "name": "Solid Monkeys",
+    "author": "A Haunted Army",
+    "version": "1.0.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "AHauntedArmy/SolidMonkeys",
+    "group": "Gameplay",
+    "download_url": "https://github.com/AHauntedArmy/SolidMonkeys/releases/download/1.0.1/SolidMonkeys-v1.0.1.zip"
   },
   {
     "name": "TMPLoader",
