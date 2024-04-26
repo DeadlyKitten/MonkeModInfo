@@ -31,6 +31,17 @@
     "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.6.1/ComputerInterface.zip"
   },
   {
+    "name": "Haunted Mod Menu",
+    "author": "A Haunted Army",
+    "version": "1.0.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "AHauntedArmy/HauntedModMenu",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/HauntedModMenu/releases/download/1.0.1/HauntedModMenu-v1.0.1.zip"
+  },
+  {
     "name": "Iron Monke",
     "author": "Buzz Bzzz bzz BZZZ The 18th",
     "version": "1.0.3",
@@ -65,6 +76,40 @@
     "git_path": "Vadix88/MonkeMapLoader",
     "group": "Gameplay",
     "download_url": "https://github.com/Vadix88/MonkeMapLoader/releases/download/1.2.2/MonkeMapLoader.zip"
+  },
+  {
+    "name": "MonkeSwim",
+    "author": "A Haunted Army",
+    "version": "1.0.7",
+    "dependencies": [
+      "Monke Map Loader"
+    ],
+    "git_path": "AHauntedArmy/MonkeSwim",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/MonkeSwim/releases/download/1.0.7/MonkeSwim-v1.0.7.zip"
+  },
+  {
+    "name": "Slippery Ice",
+    "author": "fchb1239",
+    "version": "1.0.3",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "fchb1239/SlipperyIce",
+    "group": "Gameplay",
+    "download_url": "https://github.com/fchb1239/SlipperyIce/releases/download/1.0.3/SlipperyIce.zip"
+  },
+  {
+    "name": "Space Monke",
+    "author": "Bobbie",
+    "version": "1.2.3",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "legoandmars/SpaceMonke",
+    "group": "Gameplay",
+    "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.3/SpaceMonke-1.2.3.zip"
   },
   {
     "name": "TMPLoader",
