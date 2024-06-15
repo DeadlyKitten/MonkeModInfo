@@ -25,7 +25,7 @@
     "version": "5.4.23.2",
     "git_path": "BepInEx/BepInEx",
     "group": "Core",
-    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip"
+    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_linux_x86_5.4.23.2.zip"
   },
   {
     "name": "Bepinject",
