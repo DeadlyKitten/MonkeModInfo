@@ -70,15 +70,6 @@
     "download_url": "https://github.com/Frogrilla/DashMonke/releases/download/1.0.2/DashMonke-v1.0.2.zip"
   },
   {
-    "name": "Extenject",
-    "author": "svermeulen",
-    "version": "1.0.1",
-    "install_location": "BepInEx/plugins",
-    "git_path": "Auros/Bepinject",
-    "group": "Libraries",
-    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
-  },
-  {
     "name": "Gorilla Cosmetics",
     "author": "Bobbie & Graic",
     "version": "3.0.2",
@@ -134,17 +125,6 @@
     "git_path": "LIV/GorillaTagLIV",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/LIV/GorillaTagLIV/releases/download/v1.5.0/GorillaTagLIV.zip"
-  },
-  {
-    "name": "Marry Poppins",
-    "author": "Buzz Bzzz bzz BZZZ The 18th",
-    "version": "1.0.1",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "BzzzThe18th/Marry-Poppins-PC",
-    "group": "Gameplay",
-    "download_url": "https://github.com/BzzzThe18th/Marry-Poppins-PC/releases/download/1.0.1/MarryPoppins-v1.0.1.zip"
   },
   {
     "name": "Monke Bazooka",
@@ -210,18 +190,6 @@
     "download_url": "https://github.com/AHauntedArmy/PowerArms/releases/download/1.0.3/PowerArms-v1.0.3.zip"
   },
   {
-    "name": "Practice Mod",
-    "author": "Graic",
-    "version": "1.1.2",
-    "dependencies": [
-      "Utilla",
-      "Computer Interface"
-    ],
-    "git_path": "Graicc/PracticeMod",
-    "group": "Gameplay",
-    "download_url": "https://github.com/Graicc/PracticeMod/releases/download/v1.1.2/PracticeMod-v1.1.2.zip"
-  },
-  {
     "name": "Slippery Ice",
     "author": "fchb1239",
     "version": "1.0.3",
@@ -243,17 +211,6 @@
     "git_path": "AHauntedArmy/SolidMonkeys",
     "group": "Gameplay",
     "download_url": "https://github.com/AHauntedArmy/SolidMonkeys/releases/download/1.0.1/SolidMonkeys-v1.0.1.zip"
-  },
-  {
-    "name": "Space Monke",
-    "author": "Bobbie",
-    "version": "1.2.3",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "legoandmars/SpaceMonke",
-    "group": "Gameplay",
-    "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.3/SpaceMonke-1.2.3.zip"
   },
   {
     "name": "Super Monke",
