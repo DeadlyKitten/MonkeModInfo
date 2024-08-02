@@ -102,17 +102,6 @@
     "download_url": "https://github.com/BzzzThe18th/Grav-Monke-PC/releases/download/1.0.0/GravMonke-v1.0.0.zip"
   },
   {
-    "name": "Haunted Mod Menu",
-    "author": "A Haunted Army",
-    "version": "1.0.1",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "AHauntedArmy/HauntedModMenu",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/AHauntedArmy/HauntedModMenu/releases/download/1.0.1/HauntedModMenu-v1.0.1.zip"
-  },
-  {
     "name": "Iron Monke",
     "author": "Buzz Bzzz bzz BZZZ The 18th",
     "version": "1.0.3",
@@ -245,17 +234,6 @@
     "download_url": "https://github.com/AHauntedArmy/SolidMonkeys/releases/download/1.0.1/SolidMonkeys-v1.0.1.zip"
   },
   {
-    "name": "Space Monke",
-    "author": "Bobbie",
-    "version": "1.2.3",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "legoandmars/SpaceMonke",
-    "group": "Gameplay",
-    "download_url": "https://github.com/legoandmars/SpaceMonke/releases/download/v1.2.3/SpaceMonke-1.2.3.zip"
-  },
-  {
     "name": "Super Monke",
     "author": "fchb1239",
     "version": "1.0.0",
@@ -281,5 +259,16 @@
     "git_path": "legoandmars/Utilla",
     "group": "Libraries",
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.14/Utilla.zip"
+  },
+  {
+    "name": "YURFitGorillaTag",
+    "author": "A Haunted Army & fchb1239",
+    "version": "1.0.4",
+    "dependencies": [
+      "TMPLoader"
+    ],
+    "git_path": "AHauntedArmy/YURFitGorillaTag",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/AHauntedArmy/YURFitGorillaTag/releases/download/1.0.4/YurFitGorillaTag-v1.0.4.zip"
   }
 ]
