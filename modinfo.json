@@ -20,12 +20,16 @@
     "download_url": "https://github.com/Graicc/BananaHook/releases/download/1.3.1/BananaHook.zip"
   },
   {
-    "name": "BepInEx",
-    "author": "BepInEx Team",
-    "version": "5.4.23.2",
-    "git_path": "BepInEx/BepInEx",
-    "group": "Core",
-    "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip"
+    "name": "Bepinject",
+    "author": "Auros",
+    "version": "1.0.1",
+    "dependencies": [
+      "Extenject"
+    ],
+    "install_location": "BepInEx/plugins",
+    "git_path": "Auros/Bepinject",
+    "group": "Libraries",
+    "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
   },
   {
     "name": "BrokenController",
@@ -34,17 +38,6 @@
     "git_path": "AHauntedArmy/BrokenController",
     "group": "Tweaks / Tools",
     "download_url": "https://github.com/AHauntedArmy/BrokenController/releases/download/1.1.0/BrokenController-v1.1.0.zip"
-  },
-  {
-    "name": "Computer Interface",
-    "author": "Toni Macaroni",
-    "version": "1.6.1",
-    "dependencies": [
-      "Bepinject"
-    ],
-    "git_path": "ToniMacaroni/ComputerInterface",
-    "group": "Libraries",
-    "download_url": "https://github.com/ToniMacaroni/ComputerInterface/releases/download/1.6.1/ComputerInterface.zip"
   },
   {
     "name": "Dash Monke",
@@ -65,18 +58,6 @@
     "git_path": "Auros/Bepinject",
     "group": "Libraries",
     "download_url": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
-  },
-  {
-    "name": "Gorilla Cosmetics",
-    "author": "Bobbie & Graic",
-    "version": "3.0.2",
-    "dependencies": [
-      "Utilla",
-      "Newtonsoft.JSON"
-    ],
-    "git_path": "legoandmars/GorillaCosmetics",
-    "group": "Cosmetic",
-    "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/3.0.2/GorillaCosmetics-3.0.2.zip"
   },
   {
     "name": "Grav Monke",
@@ -110,6 +91,18 @@
     "git_path": "BzzzThe18th/IronMonkePC",
     "group": "Gameplay",
     "download_url": "https://github.com/BzzzThe18th/IronMonkePC/releases/download/1.0.3/IronMonke-v1.0.3.zip"
+  },
+  {
+    "name": "LIV",
+    "author": "Raicuparta",
+    "version": "1.5.0",
+    "dependencies": [
+      "Utilla",
+      "Computer Interface"
+    ],
+    "git_path": "LIV/GorillaTagLIV",
+    "group": "Tweaks / Tools",
+    "download_url": "https://github.com/LIV/GorillaTagLIV/releases/download/v1.5.0/GorillaTagLIV.zip"
   },
   {
     "name": "Marry Poppins",
